@@ -1,6 +1,3 @@
-n init.vim 
-cd cpp
-ls
 pwd
 ls
 mkdir user_inputs
@@ -498,3 +495,6 @@ cat .bashrc
 echo data
 echo date
 n test.sh
+cat .basrh
+cat .bashrc 
+cat .token.txt 

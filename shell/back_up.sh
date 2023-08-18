@@ -20,7 +20,7 @@ TOKEN="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"
 USERNAME="AhmedMohamed05"
 cd ~/repos/config-files
 
-lsd -l
+lsd -la
 
 git add . 
 
