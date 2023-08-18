@@ -16,12 +16,13 @@ cp -vr ~/.token.txt $back_up_dir_path
 cp -vr /usr/share/backgrounds/ $back_up_dir_path
 
 current_date=$(date +%Y-%M-%d)
-
+TOKEN="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"
+USERNAME="AhmedMohamed05"
 cd ~/repos/config-files
 
 lsd -l
 
-git add *
+git add . 
 
 git commit -m "$current_date"
 
