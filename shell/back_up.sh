@@ -10,7 +10,8 @@ cp -vr ~/.config/picom/ $back_up_dir_path
 cp -vr ~/.config/polybar/ $back_up_dir_path
 cp -vr ~/.config/redshift $back_up_dir_path
 cp -vr ~/shell $back_up_dir_path
-cp -vr ~/.bash* $back_up_dir_path
+mkdir ~/repos/config-files/bash
+cp -vr ~/.bash* $back_up_dir_path/bash
 cp -vr ~/.inputrc $back_up_dir_path
 #cp -vr ~/.token.txt $back_up_dir_path
 cp -vr /usr/share/backgrounds/ $back_up_dir_path
