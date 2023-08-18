@@ -19,10 +19,10 @@ current_date=$(date +%Y-%M-%d)
 
 cd ~/repos/config-files
 
-ls
+lsd -l
 
 git add *
 
 git commit -m "$current_date"
 
-git puhs origin main 
+git push origin main 
