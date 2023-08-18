@@ -1,0 +1,22 @@
+window:
+  padding:
+    x: 5
+    y: 5
+
+colors:
+  primary:
+    background: "#11121D"
+    forground: "#a9b1d6"
+
+cursor:
+  style:
+    shape: Block
+    blinking: on
+    blink_interval: 500
+    unfocused_hollow: false
+
+font:
+  size: 9.5
+
+key_bindings:
+  - { key: Return, mods: Super|Shift, action: SpawnNewInstance }
