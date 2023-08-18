@@ -12,7 +12,7 @@ cp -vr ~/.config/redshift $back_up_dir_path
 cp -vr ~/shell $back_up_dir_path
 mkdir ~/repos/config-files/bash
 cp -vr ~/.bash* $back_up_dir_path/bash
-cp -vr ~/.inputrc $back_up_dir_path
+cp -vr ~/.inputrc $back_up_dir_path/bash
 #cp -vr ~/.token.txt $back_up_dir_path
 cp -vr /usr/share/backgrounds/ $back_up_dir_path
 
@@ -21,10 +21,10 @@ TOKEN="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"
 USERNAME="AhmedMohamed05"
 cd ~/repos/config-files
 
-lsd -la
+lsd -l
 
-git add . 
+#git add . 
 
-git commit -m "$current_date"
+#git commit -m "$current_date"
 
-git push origin main 
+#git push origin main 
