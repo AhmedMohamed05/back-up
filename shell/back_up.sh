@@ -16,7 +16,7 @@ cp -vr ~/.inputrc $back_up_dir_path/bash
 #cp -vr ~/.token.txt $back_up_dir_path
 cp -vr /usr/share/backgrounds/ $back_up_dir_path
 
-current_date=$(date +%Y-%M-%d)
+current_date=$(date +%Y-%m-%d)
 USERNAME="AhmedMohamed05"
 cd ~/repos/config-files
 
