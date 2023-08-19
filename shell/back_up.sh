@@ -17,14 +17,11 @@ cp -vr ~/.inputrc $back_up_dir_path/bash
 cp -vr /usr/share/backgrounds/ $back_up_dir_path
 
 current_date=$(date +%Y-%M-%d)
-TOKEN="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"
 USERNAME="AhmedMohamed05"
 cd ~/repos/config-files
 
-lsd -l
+lsd -la 
 
-#git add . 
-
-#git commit -m "$current_date"
-
-#git push origin main 
+git add . 
+git commit -m "$current_date"
+git push origin main 

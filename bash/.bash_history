@@ -1,170 +1,3 @@
-cat Documents/cpp/homeworks/homeworks.cpp 
-cat Documents/cpp/homeworks/homeworks.cpp 
-cat Documents/cpp/homeworks/homeworks.cpp 
-n ocuments/cpp/homeworks/homeworks.cpp
-n Documents/cpp/homeworks/homeworks.cpp
-nano Documents/cpp/homeworks/homeworks.cpp
-build
-build
-build
-build
-build
-build
-cd us
-ls
-n CMakeLists.txt
-build
-build
-build
-build
-build
-n app.cpp 
-cd ..
-ls
-mv homeworks/ variables/
-ls
-md data-types-sizes-ranges
-ls
-cd data-types-sizes-ranges/
-n CMakeLists.txt
-n app.cpp
-cd nv
-ls
-n init.vim 
-n init.vim 
-n init.vim 
-cd cp
-pwd
-ls
-cd data-types-sizes-ranges/
-ls
-n app.cpp
-cd nv
-ls
-n init.vim 
-i flameshot
-i flameshot
-flameshot 
-ranger 
-ranger 
-flameshot --help
-flameshot screen
-flameshot screen Pictures/screenshots/
-n .config/i3/config 
-exit
-notify-send "scrot" "ScreenShot Taken"
-killall redshift
-i scrot
-scrot 
-ls
-ranger 2023-08-16-143037_1366x768_scrot.png 
-ranger 
-scrot --help
-man scrot
-ls
-cd Pictures/
-ls
-mv screenshots/ Screenshots/
-ls
- cd Screenshots/
-ls
-cd ..
-n ~/.config/i3/config 
-ranger 
-cd cpp
-ls
-pwd
-cd 
-rm -rv cpp/
-cd cpp
-ls
-cd data-types-sizes-ranges/
-ls
-n app.cpp 
-n app.cpp 
-cd data
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-cd cpp
-n variables/app.cpp 
-n variables/homeworks/
-n user_inputs/app.cpp 
-ls
-ls
-cd p
-cd cpp
-ls p1
-ls
-cd var
-ls
-cd ..
-ls
-ls p1/
-cat p1/p1.cpp 
-\n
-ehco -e "\n"
-echo -e "\n"
-exit
-cd nv
-ls
-n init.vim 
-exit
-n .config/nvim/init.vim 
-n i
-n .config/nvim/init.vim 
-exit
-cd shell/
-ls
-chmod +x init_cmake.sh 
-ls
-ls
-./init_cmake.sh 
-./init_cmake.sh 
-ls 
-cat CMakeLists.txt 
-./init_cmake.sh Ahmed
-ls
-cat CMakeLists.txt 
-rm -r CMakeLists.txt 
-ls
-ls
-exit
-cd cpp
-ls
-md arithmetic_operators
-cd arithmetic_operators/
-cd sh
-ls
-cd shel
-ls
-ls
-build
-n build
-ls
-rm -r build
-n build.sh 
-ls
-n init_cmake.sh
-exit
-cd shell/
-ls
-./init_cmake.sh 
-ls
-cat CMakeLists.txt 
-rm -r CMakeLists.txt 
-./init_cmake.sh 
-rm CMakeLists.txt 
-./init_cmake.sh 
-cat CMakeLists.txt 
-rm CMakeLists.txt 
 ./init_cmake.sh 
 cat CMakeLists.txt 
 exit
@@ -498,3 +331,170 @@ cd test
 ls
 gc https://github.com/AhmedMohamed05/config-files.git
 gc https://github.com/AhmedMohamed05/config-files.git
+cat .token.txt 
+git credential-cache exit
+n .bashrc 
+ls
+cd repos/
+ls
+ls i3
+ls i3-setup/
+trash-rm i3-setup/
+ls
+rm 2023-8-1-14-03.code-profile 
+ls
+ls
+ls i3-setup/
+ls
+ls
+rm -rv i3-setup/
+ls
+ls
+ls
+cd i3/
+ls
+ls
+pwd
+ls
+ls
+source ~/.bashrc 
+ll
+ls
+ls
+ls
+ls
+ll
+ls
+rm alacritty.yml 
+ls
+ls
+ls rofi/
+ls
+cd ..
+ls
+trash-rm init.backup 
+ls
+ls
+ls
+ls
+ls
+rm init.backup 
+ls
+gc https://github.com/AhmedMohamed05/config-files.git
+ls
+gc https://github.com/AhmedMohamed05/config-files.git
+ls
+cd config-files/
+ls
+ls
+ls
+ls
+ls
+rm config 
+ls
+cd .conf
+ls
+ls
+ll
+cd config
+ls
+ls
+ls
+ls -a
+ls
+ls -a
+cd 
+ls
+ll -a
+cat .vim
+cat .cache/
+cd .cache/
+ls
+ls ranger/
+cd ..
+ll -a
+cd .local/share/
+ll -a
+ls -a
+ls icons/
+ls
+ls Trash/
+ls Trash/files/
+cd 
+cd /usr/share/backgrounds/
+ls
+pwd
+cd confifil
+cd config
+cd files
+ls
+ls
+ls -a
+rm .bash*
+ls
+ls -a
+ls
+ls -a
+rm .inputrc 
+rm .token.txt 
+ls
+ls bash/
+rm *
+rm -r *
+ls
+ls
+gaa
+acm "2023-8-18"
+gcm "2023-8-18"
+gp
+gp
+gp
+[200~git remote -v
+~git remote -v
+git remote -v
+cd shell/
+ls
+chmod +x back_up.sh 
+ls
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+ls
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+ls
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+./back_up.sh 
+ls
+ls
+rm -r 1047_اعدادية\ الشريف\ الرضي\ للبنين.pdf 
+cd shell/
+ls
+rm CMakeLists.txt 
+n back_up.sh
+bp
+n shell/back_up.sh 
+n shell/back_up.sh 
+bp
+n .bashrc 
+poweroff 
+bp
+bp
+cat .token.txt 
