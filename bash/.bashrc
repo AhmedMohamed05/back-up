@@ -39,7 +39,7 @@ alias gaa='git add .'
 alias gcm='git commit -m'
 alias gp='git push origin main'
 
-PATH=~/.console-ninja/.bin:$PATH
+
 
 # Shell Script
 alias build='~/shell/./build.sh'

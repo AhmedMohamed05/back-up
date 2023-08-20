@@ -1,71 +1,3 @@
-./init_cmake.sh 
-cat CMakeLists.txt 
-exit
-cd shell/
-n init_cmake.sh 
-exi
-exit
-n .bashrc 
-exit
-lf 
-exit
-cd nv
-ls
-n init.vim 
-cd ar
-cd arith
-ls
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-cd arh
-cd arit
-ls
-ncmake 
-ls
-n app.cpp
-lf
- zathura Documents/study/p1.pdf 
-exit
-fsearch
-i fsearch
-yay fsearch
-fsearch 
-zathura Documents/study/حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
-u
-ranger
-ranger
-cd cpp
-ls
-cd data-types-sizes-ranges/
-ls
-cat app.cpp 
-exit
-ranger
-build
-build
-build
-ping google.com
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
 build
 build
 build
@@ -498,3 +430,71 @@ poweroff
 bp
 bp
 cat .token.txt 
+git config -list
+git config --list
+ssh-keygen -t rsa -b 4096 -C "ahmedm1232344@gmail.com"
+ls .ssh/id_rsa
+cat .ssh/id_rsa
+cat .ssh/id_rsa.pub 
+cat .ssh/id_rsa
+'cat' .ssh/id_rsa
+'cat' .ssh/id_rsa.pub 
+n shell/back_up.sh 
+n test.sh 
+cd shell/
+./back_up.sh 
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+ssh -vT git@github.com
+./back_up.sh 
+./back_up.sh 
+ssh-add ~/.ssh/id_rsa
+./back_up.sh 
+cd fil
+ls
+cd ..
+doas rm config-files/
+doas rm -r config-files/
+gc git@github.com:AhmedMohamed05/config-files.git
+git@github.com:AhmedMohamed05/config-files.git
+ls
+ls
+git@github.com:AhmedMohamed05/config-files.git
+gc git@github.com:AhmedMohamed05/config-files.git
+ls
+ls i3/
+rm -r i3/
+doas rm -r i3/
+ls
+cd config-files/
+ls
+bp
+cd 
+./test.sh 
+./test.sh 
+bp
+exit
+rofi -modi "fb:./rofi-file-browser.sh" -show fb
+man rofi
+rofi -slect
+rofi -show ssh
+ls 
+rm test*
+rm -r test*
+ls
+ranger
+rm 2023-08-16-143037_1366x768_scrot.png 
+ls
+rm nvim-backup/ 
+rm -r nvim-backup/ 
+ls
+ls
+s fira
+i woff2-fira-code
+node "/home/ahmed/shell/test.js"
+node "/home/ahmed/shell/test.js"
+node "/home/ahmed/shell/test.js"
+poweroff 
+ranger
+n .config/nvim/init.vim 
+n .xhx
