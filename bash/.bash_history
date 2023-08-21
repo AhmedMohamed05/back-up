@@ -7,7 +7,6 @@ build
 build
 build
 build
-build
 buid
 build
 build
@@ -496,5 +495,6 @@ poweroff
 ranger
 n .config/nvim/init.vim 
 n .xhx
+bp
 bp
 bp
