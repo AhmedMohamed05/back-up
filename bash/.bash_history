@@ -1,20 +1,3 @@
-build
-build
-build
-build
-build
-build
-build
-build
-build
-buid
-build
-build
-216340
-build
-build
-build
-Minutes: 5
 Hours: 12
 Days: 2
 Total Seconds: 216340build
@@ -498,3 +481,20 @@ n .xhx
 bp
 bp
 bp
+ebp
+bp
+cd conf
+ls
+cd fil
+git status
+cd pp
+ls
+cd reational_operators/
+cat app.cpp 
+ls
+ll
+cd ..
+ll
+ls
+cat arithmetic_operators/app.cpp 
+'cat' arithmetic_operators/app.cpp 

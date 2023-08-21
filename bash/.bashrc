@@ -20,7 +20,6 @@ alias s='doas pacman -Ss'
 #Custom Aliases
 alias ls='lsd -l'
 alias u='~/shell/./update.sh'
-alias cat='bat'
 alias man='tldr'
 alias cd='z'
 alias dust='dust -r'
