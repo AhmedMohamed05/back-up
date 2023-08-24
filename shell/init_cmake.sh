@@ -1,7 +1,6 @@
 #!/bin/bash
 
 current_dir=${PWD##*/}          # to assign to a variable
-#current_dir=${result:-/}        # to correct for the case where PWD=/
 
 touch CMakeLists.txt
 

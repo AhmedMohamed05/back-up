@@ -1,208 +1,3 @@
-Hours: 12
-Days: 2
-Total Seconds: 216340build
-build
-build
-build
-build
-build
-build
-build
-hhhhhh
-build
-build
-cd cp
-ls
-cd arithmetic_operators/
-ls
-n app.cpp 
-poweroff 
-pwd
-cd real
-cd rela
-cd cpp
-ls
-cd reational_operators/
-ls
-PWD##*/
-echo PWD##*/
-cd shel
-./init_cmake.sh 
-ls
-rm CMakeLists.txt 
-exit
-echo $PWD
-ls
-cd shell/
-./init_cmake.sh 
-cd shell/
-ls
-rm CMakeLists.txt 
-n init_cmake.sh 
-n init_cmake.sh 
-cat shell/build.sh 
-n shell/build.sh 
-cat shell/build.sh 
-upower -i /org/freedesktop/UPower/devices/battery_BAT0
-alias bat='upower -i /org/freedesktop/UPower/devices/battery_BAT0| grep -E "state|to\ full|percentage"'
-vat
-bat
-acpi
-i acpi
-s acpi
-i acpi
-acpi
-watch --interval=5 acpi -V
-cd
-cd cpp
-ls
-ls
-md increment_decrement-op
-cd increment_decrement-op/
-ncmake 
-n app.cpp
-cd ..
-ls
-md reational-operators
-cd reational-operators/
-cd ..
-mv reational-operators/ reational_operators/
-cd reational_operators/
-ls
-ncmake
-ls
-cat CMakeLists.txt 
-cat CMakeLists.txt 
-n CMakeLists.txt 
-rm CMakeLists.txt 
-ncmake
-cat CMakeLists.txt 
-n CMakeLists.txt 
-ls
-rm CMakeLists.txt 
-ncmake 
-cat CMakeLists.txt 
-"cat" CMakeLists.txt 
-i cat
-i bat
-cat CMakeLists.txt 
-n app.cpp
-cd ..
-md logical_operators
-cd logical_operators/
-ncmake 
-n app.cpp
-buil
-build
-build
-build
-ls
-cd build/
-ls
-./run 
-ls
-make
-cd ..
-build
-build
-cd 
-cd cp
-ls
-cd reational_operators/
-ls
-cat app.cpp 
-cat CMakeLists.txt 
-build
-build
-build
-build
-build
-build
-build
-cd ../logical_operators/
-md build
-cd build/
-cmake ..
-make 
-./run 
-cd ..
-build
-poweroff 
-n .config/i3/config 
-exit
-exit
-killall redshift
-exit
-exit
-exit
-exit
-exit
-htop
-ls
-exit
-i3 --version
-i3
-i3-input 
-i3-config-wizard 
-i3-sensible-terminal 
-i simple-terminal
-n .config/i3/config 
-n .config/i3/config 
-ls
-ls
-rm i js.js 
-ls
-cp -vr shell/build.sh .
-ls
-rm build.sh 
-exit
-ls
-cp -i shell/build.sh .
-ls
-rm build.sh 
-ls shell/build.sh 
-man cp
-exit
-ranger
-man ranger
-cd .config/
-ls
-'ls'
-cd 
-n .bashrc 
-exit
-ls
-ll
-ls
-ll
-source .bashrc 
-ll
-exit
-ll
-n .bashrc 
-n .bashrc 
-exit
-cat .config/rofi/config.rasi 
-exit
-cd repos/i3/
-ls
-ls
-cd .config/systemd/
-ls
-cd user/
-ls
-ls default.target.wants/
-cd .config/i3/config 
-cd .config/
-ls i3/config 
-ls
-cd 
-cd .config/
-ls
-ls
-ls
-ls
-ls
 ls
 ls
 'ls;
@@ -498,3 +293,208 @@ ll
 ls
 cat arithmetic_operators/app.cpp 
 'cat' arithmetic_operators/app.cpp 
+n .bashrc 
+bp
+exit
+n .vimrc 
+vim
+n
+cd .config/nvim/
+ls
+n init.vim 
+exit
+cd .config/nvim/
+n init.vim 
+exit
+cd cp
+ls
+md math_functions
+cd math_functions/
+ls
+ncmake
+n app.cpp
+n app.cpp
+n
+cd ../logical_operators/
+ls
+n  app.cpp 
+n  app.cpp 
+n  app.cpp 
+cd ../math_functions/
+n app.cpp 
+cd ..
+ls
+md structures
+cd structures/
+ls
+ncmake
+n app.cpp
+n app.cpp
+cd ..
+md enums
+cd enums/
+ncmake
+n app.cpp
+build
+build
+build
+build
+build
+build
+build
+build
+cd ..
+ls
+cd logical_operators/
+ls
+build
+build
+build
+build
+cd math
+ls
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+cd ../structures/
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+cd ../enums/
+cat shell/update.sh 
+cat shell/update.sh 
+printf "Ahmed\n"
+printf "Ahmed"
+exit
+touch test.txt
+print "Hello World, !" << test.txt
+hello
+
+cat te
+cat test.txt 
+print "Hello World, !" >> test.txt
+printf "Hello World, !" >> test.txt
+cat test.txt 
+printf "x\n"
+printf "x\n"
+man printf
+eit
+n
+cd shell/
+ls
+rm test.js 
+ls
+n ncp.sh
+n ncp.sh
+exit
+cat shell/init_cmake.sh 
+n shell/init_cmake.sh 
+n shell/init_cmake.sh 
+exit
+cd shell/
+chmod +x ncp.sh 
+exit
+n shell/ncp.sh 
+ext
+exit
+ls 
+exit
+ls
+rm test.txt 
+md hox
+cd hox/
+ls
+~/shell/./ncp.sh 
+ls
+cat app.cpp 
+rm *
+ll
+ls
+~/shell/./ncp.sh 
+ls
+cd ..
+rm hox
+rm -ri hox
+cd eum
+cd cp
+ls
+cd enums/
+ls
+n app.cpp 
+n app.cpp 
+build
+reboot 
+cd cpp
+ls
+cd em
+cd ..
+cd enums/
+n app.cpp 
+cd nv
+ls
+n init.vim 
+cd en
+ls
+n app.cpp 
+n app.cpp 
+n app.cpp 
+cd
+ls
+ls -a
+rm hox 
+n .config/nvim/init.vim 
+ls
+rm -r app.cpp 
+ls
+rm app.cpp 
+ls
+cd Documents/
+ls
+cd cpp/
+ls
+ls
+cd enums/
+ls
+n app.cpp 
+ls
+cd
+ls
+cat .bashrc 
+r nvim
+sudo pacman -R nvim
+sudo pacman -R neovim
+d nv
+cd nv
+ls
+i neovim
+nvim 

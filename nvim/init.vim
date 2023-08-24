@@ -1,8 +1,9 @@
 :set number tabstop=2 shiftwidth=2 expandtab 
 syntax on 
 
-nnoremap <C-s> :w<CR>
-nnoremap <C-q> :q<CR>
+nnoremap <C-s> <C-o>:w<CR>
+nnoremap <C-q> <C-o>:q<CR>
+
 
 call plug#begin('~/.local/share/nvim/plugged')
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
@@ -20,7 +21,7 @@ inoremap <expr> <CR> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
 " NERDTree Configration
 nnoremap <C-n> :NERDTreeToggle<CR>
 let g:NERDTreeDirArrowExpandable = '+'
-let g:NERDTreeDirArrowCollapsible = '~'
+let g:NERDTreeDirArrowCollapsible = '-'
 
 " Use clang-format for formatting C and C++ files
 let g:clang_format#style = 'file'
