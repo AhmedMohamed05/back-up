@@ -1,94 +1,4 @@
 ls
-ls
-'ls;
-'ls'
-ls alacritty/
-source ~/.bashrc 
-ll
-ll
-ll
-ls
-ll
-cd ..
-ll
-cd .config/
-ls
-ll
-ls
-chmod +x test.sh 
-./test.sh 
-echo $date
-./test.sh 
-./test.sh 
-./test.sh 
-./test.sh 
-./test.sh 
-cat .bashrc 
-echo data
-echo date
-n test.sh
-cat .basrh
-cat .bashrc 
-cat .token.txt 
-md test
-cd te
-ls
-cd 
-cd test
-ls
-gc https://github.com/AhmedMohamed05/config-files.git
-gc https://github.com/AhmedMohamed05/config-files.git
-cat .token.txt 
-git credential-cache exit
-n .bashrc 
-ls
-cd repos/
-ls
-ls i3
-ls i3-setup/
-trash-rm i3-setup/
-ls
-rm 2023-8-1-14-03.code-profile 
-ls
-ls
-ls i3-setup/
-ls
-ls
-rm -rv i3-setup/
-ls
-ls
-ls
-cd i3/
-ls
-ls
-pwd
-ls
-ls
-source ~/.bashrc 
-ll
-ls
-ls
-ls
-ls
-ll
-ls
-rm alacritty.yml 
-ls
-ls
-ls rofi/
-ls
-cd ..
-ls
-trash-rm init.backup 
-ls
-ls
-ls
-ls
-ls
-rm init.backup 
-ls
-gc https://github.com/AhmedMohamed05/config-files.git
-ls
 gc https://github.com/AhmedMohamed05/config-files.git
 ls
 cd config-files/
@@ -498,3 +408,93 @@ cd nv
 ls
 i neovim
 nvim 
+cd cpp
+ls
+cd enums/
+ls
+n app.cpp 
+cd 
+ls
+bp
+bp
+cd fil
+ls
+git status
+ls nvim/
+cd nvim/
+ls
+cat \[Plugins\] 
+rm \[Plugins\] 
+ls
+cd ..
+ls
+
+ls
+ls
+gp
+cd nvim/
+ls
+dust
+cd .conf
+ls
+cd nvim/
+ls
+sls
+ls
+rm \[Plugins\] 
+ls
+dust
+n init.vim 
+bp
+sudo pacman -Rns neovim
+ls
+cd 
+ls
+i neovim
+nvim 
+cd pp
+ls
+cd arithmetic_operators/
+ls
+n app.cpp 
+ls
+cd
+ls -a
+ll -a
+ext
+trash-list 
+ls
+trash-empty 
+trash-list 
+cd cp
+ls
+cd enums/
+ls
+n app.cpp 
+n app.cpp 
+ll -a
+ll hox
+exit
+cd .config/nvim/
+ls
+ls plugged/
+ls site/
+ls site/autoload/plug.vim 
+n site/autoload/plug.vim 
+n init.vim 
+cd nv
+ls
+ pwd
+dust
+cd ~/
+ls
+cd /usr/share/locale/
+n
+n
+cd .local/state/nvim/swap/
+ls
+rm *
+ls
+cd .
+cd ..ll
+cd

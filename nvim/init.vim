@@ -1,8 +1,8 @@
 :set number tabstop=2 shiftwidth=2 expandtab 
 syntax on 
 
-nnoremap <C-s> <C-o>:w<CR>
-nnoremap <C-q> <C-o>:q<CR>
+nnoremap <C-s> :w<CR>
+nnoremap <C-q> :q<CR>
 
 
 call plug#begin('~/.local/share/nvim/plugged')
