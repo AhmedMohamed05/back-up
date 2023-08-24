@@ -1,55 +1,3 @@
-ls
-ls
-rm config 
-ls
-cd .conf
-ls
-ls
-ll
-cd config
-ls
-ls
-ls
-ls -a
-ls
-ls -a
-cd 
-ls
-ll -a
-cat .vim
-cat .cache/
-cd .cache/
-ls
-ls ranger/
-cd ..
-ll -a
-cd .local/share/
-ll -a
-ls -a
-ls icons/
-ls
-ls Trash/
-ls Trash/files/
-cd 
-cd /usr/share/backgrounds/
-ls
-pwd
-cd confifil
-cd config
-cd files
-ls
-ls
-ls -a
-rm .bash*
-ls
-ls -a
-ls
-ls -a
-rm .inputrc 
-rm .token.txt 
-ls
-ls bash/
-rm *
 rm -r *
 ls
 ls
@@ -498,3 +446,55 @@ zathura Downloads/Telegram\ Desktop/ملخصات\ مادة\ الكيمياء\ ا
 n .bashrc 
 n .config/i3/config 
 n .config/nvim/init.vim 
+n shell/build.sh 
+bp
+cd cp
+ls 
+cat variables/app.cpp 
+ls
+cat structures/app.cpp 
+n .config/nvim/init.vim 
+cd cp
+cat structures/app.cpp 
+build
+build
+build
+build
+build
+build
+cd ../structur_enums/
+build
+build
+n .config/redshift/redshift.conf 
+n .config/redshift/redshift.conf 
+ls .local/share/nvim/
+cd cp
+cd enums/
+n app.cpp 
+n app.cpp 
+cd .
+cd ..
+ls
+cat p1/p1.cpp 
+cat p2/p2.cpp 
+trahs -r p*
+trash-rm p*
+ls
+ls
+ls
+ls
+ls
+ls
+man trash
+man trash
+trash --help
+trash p*
+ls
+md structur_enums
+cd structur
+cd ../structur_enums/
+ls
+ ncmake
+ls
+cat CMakeLists.txt 
+n app.cpp
