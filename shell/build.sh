@@ -8,6 +8,8 @@ cmake ..
 
 make 
 
+clear
+
 ./run
 
 cd ..

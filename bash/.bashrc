@@ -27,6 +27,7 @@ alias n='nvim'
 alias md='mkdir'
 alias ll="'ls'"
 alias bp='~/shell/./back_up.sh'
+alias z='zathura'
 
 #Zoxide
 eval "$(zoxide init bash)"

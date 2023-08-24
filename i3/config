@@ -206,7 +206,7 @@ new_window 1pixel
 # StartUp Apps
 exec_always nitrogen --restore #nitrogen
 exec_always picom --config ~/.config/picom/picom.conf #picom
-#exec_always redshift
+exec_always redshift
 
 #Gaps Between Windows
 gaps inner 2px
@@ -219,7 +219,6 @@ bindsym XF86MonBrightnessDown exec brillo -U 10
 bindsym $mod+c exec code #VSCode
 bindsym $mod+b exec brave-browser-nightly #Brave Web Browser
 bindsym $mod+e exec nautilus #Nautilus File Explorer
-bindsym $mod+t exec ticktick #TickTick Task Manager
 bindsym $mod+y exec brave-browser-nightly youtube.com #Open Youtube.com
 
 #Key Borad Layout
@@ -227,15 +226,6 @@ exec_always setxkbmap -layout us,ara -option grp:alt_shift_toggle
 
 #Show Rofi Lanucher
 bindsym $mod+i exec rofi -show drun
-
-#Lock Screen 
-#bindsym $mod+h exec  betterlockscreen -l dim
-bindsym $mod+p exec systemctl suspend
-
-# Volume
-#bindsym XF86AudioRaiseVolume exec ~/shell/./volume.sh up
-#bindsym XF86AudioLowerVolume exec ~/shell/./volume.sh down
-#bindsym XF86AudioMute exec ~/shell/./volume.sh mute
 
 # Screen Shot flameshot
 bindsym Print exec scrot '%Y-%m-%d_%H-%M-%S_screenshot.png' -e 'mv $f ~/Pictures/Screenshots/' && notify-send "scrot" "ScreenShot Taken" 

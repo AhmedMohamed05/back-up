@@ -1,11 +1,4 @@
 ls
-gc https://github.com/AhmedMohamed05/config-files.git
-ls
-cd config-files/
-ls
-ls
-ls
-ls
 ls
 rm config 
 ls
@@ -498,3 +491,10 @@ ls
 cd .
 cd ..ll
 cd
+ls .local/share/nvim/plugged/
+bp
+bp
+zathura Downloads/Telegram\ Desktop/ملخصات\ مادة\ الكيمياء\ السادس.pdf 
+n .bashrc 
+n .config/i3/config 
+n .config/nvim/init.vim 
