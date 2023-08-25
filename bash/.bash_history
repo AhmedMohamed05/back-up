@@ -1,16 +1,3 @@
-rm -r *
-ls
-ls
-gaa
-acm "2023-8-18"
-gcm "2023-8-18"
-gp
-gp
-gp
-[200~git remote -v
-~git remote -v
-git remote -v
-cd shell/
 ls
 chmod +x back_up.sh 
 ls
@@ -498,3 +485,16 @@ ls
 ls
 cat CMakeLists.txt 
 n app.cpp
+bp && poweroff
+node js.js 
+n js.js
+cd Documents/study/
+ls
+zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
+ع
+u
+u
+killall redshift
+cd stu
+ll
+zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
