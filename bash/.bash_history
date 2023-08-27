@@ -1,25 +1,3 @@
-ls
-chmod +x back_up.sh 
-ls
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-ls
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-ls
-./back_up.sh 
-./back_up.sh 
 ./back_up.sh 
 ./back_up.sh 
 ./back_up.sh 
@@ -497,4 +475,26 @@ u
 killall redshift
 cd stu
 ll
+zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
+bp
+bp
+bp
+bp
+build
+build
+build
+build
+build
+cd cp
+ls
+md data-conversion
+cd data-conversion/
+ncmake
+n app.cpp
+n app.cpp
+cd stu
+zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
+u
+zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
+cd stu
 zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
