@@ -1,472 +1,3 @@
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-./back_up.sh 
-ls
-ls
-rm -r 1047_اعدادية\ الشريف\ الرضي\ للبنين.pdf 
-cd shell/
-ls
-rm CMakeLists.txt 
-n back_up.sh
-bp
-n shell/back_up.sh 
-n shell/back_up.sh 
-bp
-n .bashrc 
-poweroff 
-bp
-bp
-cat .token.txt 
-git config -list
-git config --list
-ssh-keygen -t rsa -b 4096 -C "ahmedm1232344@gmail.com"
-ls .ssh/id_rsa
-cat .ssh/id_rsa
-cat .ssh/id_rsa.pub 
-cat .ssh/id_rsa
-'cat' .ssh/id_rsa
-'cat' .ssh/id_rsa.pub 
-n shell/back_up.sh 
-n test.sh 
-cd shell/
-./back_up.sh 
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_rsa
-ssh -vT git@github.com
-./back_up.sh 
-./back_up.sh 
-ssh-add ~/.ssh/id_rsa
-./back_up.sh 
-cd fil
-ls
-cd ..
-doas rm config-files/
-doas rm -r config-files/
-gc git@github.com:AhmedMohamed05/config-files.git
-git@github.com:AhmedMohamed05/config-files.git
-ls
-ls
-git@github.com:AhmedMohamed05/config-files.git
-gc git@github.com:AhmedMohamed05/config-files.git
-ls
-ls i3/
-rm -r i3/
-doas rm -r i3/
-ls
-cd config-files/
-ls
-bp
-cd 
-./test.sh 
-./test.sh 
-bp
-exit
-rofi -modi "fb:./rofi-file-browser.sh" -show fb
-man rofi
-rofi -slect
-rofi -show ssh
-ls 
-rm test*
-rm -r test*
-ls
-ranger
-rm 2023-08-16-143037_1366x768_scrot.png 
-ls
-rm nvim-backup/ 
-rm -r nvim-backup/ 
-ls
-ls
-s fira
-i woff2-fira-code
-node "/home/ahmed/shell/test.js"
-node "/home/ahmed/shell/test.js"
-node "/home/ahmed/shell/test.js"
-poweroff 
-ranger
-n .config/nvim/init.vim 
-n .xhx
-bp
-bp
-bp
-ebp
-bp
-cd conf
-ls
-cd fil
-git status
-cd pp
-ls
-cd reational_operators/
-cat app.cpp 
-ls
-ll
-cd ..
-ll
-ls
-cat arithmetic_operators/app.cpp 
-'cat' arithmetic_operators/app.cpp 
-n .bashrc 
-bp
-exit
-n .vimrc 
-vim
-n
-cd .config/nvim/
-ls
-n init.vim 
-exit
-cd .config/nvim/
-n init.vim 
-exit
-cd cp
-ls
-md math_functions
-cd math_functions/
-ls
-ncmake
-n app.cpp
-n app.cpp
-n
-cd ../logical_operators/
-ls
-n  app.cpp 
-n  app.cpp 
-n  app.cpp 
-cd ../math_functions/
-n app.cpp 
-cd ..
-ls
-md structures
-cd structures/
-ls
-ncmake
-n app.cpp
-n app.cpp
-cd ..
-md enums
-cd enums/
-ncmake
-n app.cpp
-build
-build
-build
-build
-build
-build
-build
-build
-cd ..
-ls
-cd logical_operators/
-ls
-build
-build
-build
-build
-cd math
-ls
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-cd ../structures/
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-cd ../enums/
-cat shell/update.sh 
-cat shell/update.sh 
-printf "Ahmed\n"
-printf "Ahmed"
-exit
-touch test.txt
-print "Hello World, !" << test.txt
-hello
-
-cat te
-cat test.txt 
-print "Hello World, !" >> test.txt
-printf "Hello World, !" >> test.txt
-cat test.txt 
-printf "x\n"
-printf "x\n"
-man printf
-eit
-n
-cd shell/
-ls
-rm test.js 
-ls
-n ncp.sh
-n ncp.sh
-exit
-cat shell/init_cmake.sh 
-n shell/init_cmake.sh 
-n shell/init_cmake.sh 
-exit
-cd shell/
-chmod +x ncp.sh 
-exit
-n shell/ncp.sh 
-ext
-exit
-ls 
-exit
-ls
-rm test.txt 
-md hox
-cd hox/
-ls
-~/shell/./ncp.sh 
-ls
-cat app.cpp 
-rm *
-ll
-ls
-~/shell/./ncp.sh 
-ls
-cd ..
-rm hox
-rm -ri hox
-cd eum
-cd cp
-ls
-cd enums/
-ls
-n app.cpp 
-n app.cpp 
-build
-reboot 
-cd cpp
-ls
-cd em
-cd ..
-cd enums/
-n app.cpp 
-cd nv
-ls
-n init.vim 
-cd en
-ls
-n app.cpp 
-n app.cpp 
-n app.cpp 
-cd
-ls
-ls -a
-rm hox 
-n .config/nvim/init.vim 
-ls
-rm -r app.cpp 
-ls
-rm app.cpp 
-ls
-cd Documents/
-ls
-cd cpp/
-ls
-ls
-cd enums/
-ls
-n app.cpp 
-ls
-cd
-ls
-cat .bashrc 
-r nvim
-sudo pacman -R nvim
-sudo pacman -R neovim
-d nv
-cd nv
-ls
-i neovim
-nvim 
-cd cpp
-ls
-cd enums/
-ls
-n app.cpp 
-cd 
-ls
-bp
-bp
-cd fil
-ls
-git status
-ls nvim/
-cd nvim/
-ls
-cat \[Plugins\] 
-rm \[Plugins\] 
-ls
-cd ..
-ls
-
-ls
-ls
-gp
-cd nvim/
-ls
-dust
-cd .conf
-ls
-cd nvim/
-ls
-sls
-ls
-rm \[Plugins\] 
-ls
-dust
-n init.vim 
-bp
-sudo pacman -Rns neovim
-ls
-cd 
-ls
-i neovim
-nvim 
-cd pp
-ls
-cd arithmetic_operators/
-ls
-n app.cpp 
-ls
-cd
-ls -a
-ll -a
-ext
-trash-list 
-ls
-trash-empty 
-trash-list 
-cd cp
-ls
-cd enums/
-ls
-n app.cpp 
-n app.cpp 
-ll -a
-ll hox
-exit
-cd .config/nvim/
-ls
-ls plugged/
-ls site/
-ls site/autoload/plug.vim 
-n site/autoload/plug.vim 
-n init.vim 
-cd nv
-ls
- pwd
-dust
-cd ~/
-ls
-cd /usr/share/locale/
-n
-n
-cd .local/state/nvim/swap/
-ls
-rm *
-ls
-cd .
-cd ..ll
-cd
-ls .local/share/nvim/plugged/
-bp
-bp
-zathura Downloads/Telegram\ Desktop/ملخصات\ مادة\ الكيمياء\ السادس.pdf 
-n .bashrc 
-n .config/i3/config 
-n .config/nvim/init.vim 
-n shell/build.sh 
-bp
-cd cp
-ls 
-cat variables/app.cpp 
-ls
-cat structures/app.cpp 
-n .config/nvim/init.vim 
-cd cp
-cat structures/app.cpp 
-build
-build
-build
-build
-build
-build
-cd ../structur_enums/
-build
-build
-n .config/redshift/redshift.conf 
-n .config/redshift/redshift.conf 
-ls .local/share/nvim/
-cd cp
-cd enums/
-n app.cpp 
-n app.cpp 
-cd .
-cd ..
-ls
-cat p1/p1.cpp 
-cat p2/p2.cpp 
-trahs -r p*
-trash-rm p*
-ls
-ls
-ls
-ls
-ls
-ls
-man trash
-man trash
-trash --help
-trash p*
-ls
-md structur_enums
-cd structur
-cd ../structur_enums/
-ls
- ncmake
-ls
-cat CMakeLists.txt 
-n app.cpp
-bp && poweroff
-node js.js 
-n js.js
-cd Documents/study/
 ls
 zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
 ع
@@ -498,3 +29,472 @@ u
 zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
 cd stu
 zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
+bp 
+bp 
+u
+cd stu
+zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
+poweroff 
+syncthing 
+cd cp
+ls
+lll
+ll
+ls
+cd structur_enums/
+ls
+cat app.cpp 
+cd ../
+ls
+u
+htop
+u
+cd stu
+zathura  حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
+u
+cd stu
+zathura  حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
+build
+buld
+build
+build
+build
+cd cpp
+ls
+ls
+md strings 
+cd st
+n cmake
+ls
+ls
+cd ..
+ls
+cd cpp/strings/
+ls
+ncmake
+ls
+n app.cpp
+ع
+u
+ع
+u
+ping google.com
+cd cp
+ls
+cat variables/app.cpp 
+cat user_inputs/app.cpp 
+cd nvi
+ls
+n init.vim 
+cd cp
+cd par
+vim app.cpp 
+cd cp
+cd math_functions/
+n -u NONE app.cpp 
+cd para
+cat app.cpp 
+echo app.cpp back.up
+ls
+cat app.cpp 
+cp app.cpp app.cpp.bp
+cd nv
+n init.vim 
+cd cp
+cd strings/
+n ap
+n app.cpp 
+n app.cpp 
+cd ../functions/
+ls
+ncmake
+n app.cpp
+ls
+cd part_two/
+ncmake; n app.cpp
+cdd
+cd
+cd cp
+ls
+cd functions/parameters/
+ls
+n app.cpp 
+n app.cpp 
+ll
+rm app.cpp
+n app.cpp
+build
+build
+cd build/
+l
+ls
+ls
+
+p
+build
+cd
+cd strings
+build
+build
+build
+build
+build
+OOOO
+build
+build
+build
+buil
+build
+cd ..
+md functions
+cd fu
+ncmake
+touch app.cpp
+ls
+cat app.cpp 
+ls
+cd ..
+cd functions/
+ls
+ls
+build
+build
+build
+ls
+md part_one
+mv * part_one/
+ls
+md part_two
+cd part_two/
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+cd ..
+ls
+ll
+mv part_one/ introduction_to_functions
+mv part_two/ functions_vs_procedures
+md parameters
+cd parameters/
+ls
+ncmake 
+touch app.cpp
+build
+build
+build
+build
+:build
+build
+build
+build
+build
+build
+build
+cd doc
+ls
+rm js.js react-hooks/ vite-tailwind/ 
+rm -r js.js react-hooks/ vite-tailwind/ 
+ls
+cat programming-notc.txt 
+md navbar
+code navbar/ & exit
+cd doc
+ls
+cd frontend-mentor/
+ls
+cat time-tracking/index.html 
+ls
+cat age-calculator-app-main/index.html 
+cd doc
+ls
+cd frontend-mentor/
+ls
+n .config/i3/config 
+htop
+u
+cd cp
+cd par
+ls
+rm app.cpp.bp 
+n app.cpp 
+build
+cd cpp
+ls
+cd structur
+ls
+cd ../structur/
+cd ..
+cd structurs
+ls
+cd structures/
+cat app.cpp 
+sudo pacman -S snapd
+yay snapd
+s snapd
+yay snapd
+yay -S snapd
+yay snap
+yay snapd
+sudo systemctl enable --now snapd.socket
+ sudo ln -s /var/lib/snapd/snap /snap
+ls
+rm js.js 
+ls
+ls Public/
+rm virtual-machins/
+rm -r virtual-machins/
+ls
+rm Syncthing/
+rm -r Syncthing/
+ls
+ll
+ls
+snap version
+snap warnings
+ sudo snap install clion --classic
+ sudo snap install clion --classic
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+buuild
+build
+build
+build
+build
+build
+cd para
+n app.cpp 
+ls
+doas snap install clion --clasac
+doas snap install clion --classic
+clio
+clion
+ls
+ls Public/
+cd /usr/local/bin/
+ls
+./betterlockscreen 
+ln -s /opt/clion/bin/clion.sh clion
+doas ln -s /opt/clion/bin/clion.sh clion
+clion
+clion
+cd /opt/clion/bin
+yay -S clion
+yay -S clion
+a
+a
+yay -S clion
+doas yay -S clion
+reboot 
+yay -S clion
+ls
+s clion
+u
+doas yay -S clion
+yay -S clion
+sudo paccache -r
+mhwd-kernel -li
+sudo mhwd-kernel -r linuxXX
+ls /var/log/
+rm /var/log/*
+y
+rm -r  /var/log/*
+doas rm -r  /var/log/*
+yay -Rns frozen-bubble
+yay -S clion
+clion 
+ls /snap/clion/
+clion 
+ls
+ls
+cd cmake-build-debug/
+ls
+./run 
+ls Testing/
+cd ..
+ls
+ls
+rm cmake-build-debug/
+rm -r cmake-build-debug/
+ls
+ls
+l
+ll
+ls
+build
+ls
+ls
+exit
+htop
+clion 
+yay -Rns clion
+htop
+yay -Rns clion
+yay -Rns clion
+clion 
+htop
+reboot 
+sudo snapd remove clion
+yay -Rns clion
+cd cpp
+ls
+rm -ri  learn_clion/ 
+rm -rv  learn_clion/ 
+ls
+cd cmake
+ls
+./run 
+cd ..
+ls
+cd 
+cd cp
+ls
+cd clion/
+ls
+cd cmake
+ls
+pwd
+killall redshift
+redshift
+n .config/redshift/redshift.conf 
+cd cmake-build-debug/
+pwd
+ll
+ls
+./by_val_by_ref 
+ll
+./by_val_by_ref 
+ls
+./by_val_by_ref 
+cd enu
+cat app.cpp 
+cd en
+cd ../enums/
+cat app.cpp 
+cd en
+cat ap
+cat app.cpp 
+ls
+cd cmake-build-debug/
+ls
+./code_re_usability 
+ls
+rm -r Syncthing/
+md Sync
+ls
+cp Pictures/Screenshots/2023-08-16_14-23.png Sync/
+cd Sync/
+ls
+ranger
+syncthing 
+s vlc
+i vlc
+ls /etc/systemd/
+ls /etc/systemd/user/
+systemctl enable syncthing@myuser.service
+systemctl start syncthing@myuser.service
+systemctl enable syncthing@ahmed.service
+systemctl start syncthing@ahmed.service
+systemctl --user enable syncthing.service
+systemctl --user start syncthing.service
+systemctl status syncthing@ahmed.service
+systemctl status
+syncthing
+syncthing
+ls
+cd Sync/
+ls
+rm *
+ls
+md quran pictures
+md other
+cd Sync/
+ls
+lf
+mkdir -p ~/.config/systemd/user/
+n ~/.config/systemd/user/syncthing.service
+systemctl --user enable syncthing.service
+systemctl --user start syncthing.service
+systemctl --user status syncthing.service
+cd Sync/quran/
+ls
+ls
+cd ../pictures/
+ls
+ls
+ls
+ls
+ranger
+ranger
+rm Screenshot_20230904-112511_Clash\ of\ Clans.png 
+cd
+exit
+syncthing 
+systemctl status syncthing@archlinux.service
+systemctl status syncthing@archlinux.service
+syncthing 
+sudo pacman -Rns syncthing
+sudo pacman -Rns syncthing
+i syncthing
+syncthing 
+sudo systemctl stop syncthing
+sudo systemctl disable syncthing
+2sudo rm /etc/systemd/system/syncthing.service
+sudo rm /etc/systemd/system/syncthing.service
+sudo systemctl daemon-reload
+syncthing 
+htop
+syncthing 
+syncthing -no-browser -no-restart
+n .config/i3/config 
+killall redshift
+killall redshift
+htop
+s tumx
+s tumx | grep
+ysy tumx
+tmix
+ls
+ll
+ls
+exit
+ll
+ls
+cd cmake-build-debug/
+./arrays 
+./arrays 
+./arrays 
+ll
+./arrays 
+reboot 
+htop
+n .config/i3/config 
+exit
+i youtube-dl
+cd Sync/quran/
+ls
+man youtube-dl
+youtube-dl -x --audio-format mp3 'https://www.youtube.com/watch?v=ODESBIuUl28'
+doas pacman -Rns youtube-dl
+killall polybar
+exit
+n .config/i3/config 
+killall polybar && polybar
+polybar
+polybar
+n .config/polybar/config.ini 
+bp

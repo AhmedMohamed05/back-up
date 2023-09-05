@@ -1,11 +1,9 @@
-:set number tabstop=2 shiftwidth=2 expandtab 
+:set number tabstop=2 shiftwidth=2 expandtab foldmethod=indent
 syntax on 
-
-"inoremap <C-s> <C-o>:w<CR>
-"inoremap <C-q> <C-o>:q<CR>
 
 nnoremap <C-s> :w<CR>
 nnoremap <C-q> :q<CR>
+
 
 
 call plug#begin('~/.local/share/nvim/plugged')
