@@ -14,6 +14,7 @@ PS1='\W => '
 #Pacman
 alias i='doas pacman -S'
 alias r='doas pacman -R'
+alias rd='doas pacman -Rns'
 alias s='doas pacman -Ss'
 
 
@@ -28,6 +29,7 @@ alias md='mkdir'
 alias ll="'ls'"
 alias bp='~/shell/./back_up.sh'
 alias z='zathura'
+alias c='clear'
 
 #Zoxide
 eval "$(zoxide init bash)"

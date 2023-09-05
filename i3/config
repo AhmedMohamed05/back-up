@@ -197,8 +197,7 @@ bar {
 	modifier $mod
 }
 
-# Polybar
-exec_always ~/.config/polybar/./start.sh
+
 
 #Remove the window title at the top
 new_window 1pixel
@@ -208,6 +207,7 @@ exec_always nitrogen --restore #nitrogen
 exec_always picom --config ~/.config/picom/picom.conf #picom
 exec_always redshift
 exec_always syncthing -no-browser -no-restart #Syncthing
+exec_always ~/.config/polybar/./start.sh #Polybar
 
 #Gaps Between Windows
 gaps inner 2px
@@ -221,7 +221,7 @@ bindsym $mod+c exec code #VSCode
 #bindsym $mod+b exec brave-browser-nightly #Brave Web Browser
 bindsym $mod+b exec firefox #Fire foxWeb Browser
 bindsym $mod+e exec nautilus #Nautilus File Explorer
-bindsym $mod+y exec brave-browser-nightly youtube.com #Open Youtube.com
+bindsym $mod+y exec firefox youtube.com #Open Youtube.com
 
 #Key Borad Layout
 exec_always setxkbmap -layout us,ara -option grp:alt_shift_toggle

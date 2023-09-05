@@ -1,18 +1,3 @@
-ls
-zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
-ع
-u
-u
-killall redshift
-cd stu
-ll
-zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
-bp
-bp
-bp
-bp
-build
-build
 build
 build
 build
@@ -498,3 +483,18 @@ polybar
 polybar
 n .config/polybar/config.ini 
 bp
+bp
+htopp
+htop
+htop
+killall picom
+ls
+ls
+killall polybar
+cd cmake-build-debug/
+./conditional_statments 
+clear
+cd
+n .bashrc 
+n .bashrc 
+exit
