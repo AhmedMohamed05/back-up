@@ -1,143 +1,3 @@
-build
-build
-build
-cd cp
-ls
-md data-conversion
-cd data-conversion/
-ncmake
-n app.cpp
-n app.cpp
-cd stu
-zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
-u
-zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
-cd stu
-zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
-bp 
-bp 
-u
-cd stu
-zathura حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
-poweroff 
-syncthing 
-cd cp
-ls
-lll
-ll
-ls
-cd structur_enums/
-ls
-cat app.cpp 
-cd ../
-ls
-u
-htop
-u
-cd stu
-zathura  حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
-u
-cd stu
-zathura  حذوفات\ التطبيقي\ 2023\ ابن\ الدورة.pdf 
-build
-buld
-build
-build
-build
-cd cpp
-ls
-ls
-md strings 
-cd st
-n cmake
-ls
-ls
-cd ..
-ls
-cd cpp/strings/
-ls
-ncmake
-ls
-n app.cpp
-ع
-u
-ع
-u
-ping google.com
-cd cp
-ls
-cat variables/app.cpp 
-cat user_inputs/app.cpp 
-cd nvi
-ls
-n init.vim 
-cd cp
-cd par
-vim app.cpp 
-cd cp
-cd math_functions/
-n -u NONE app.cpp 
-cd para
-cat app.cpp 
-echo app.cpp back.up
-ls
-cat app.cpp 
-cp app.cpp app.cpp.bp
-cd nv
-n init.vim 
-cd cp
-cd strings/
-n ap
-n app.cpp 
-n app.cpp 
-cd ../functions/
-ls
-ncmake
-n app.cpp
-ls
-cd part_two/
-ncmake; n app.cpp
-cdd
-cd
-cd cp
-ls
-cd functions/parameters/
-ls
-n app.cpp 
-n app.cpp 
-ll
-rm app.cpp
-n app.cpp
-build
-build
-cd build/
-l
-ls
-ls
-
-p
-build
-cd
-cd strings
-build
-build
-build
-build
-build
-OOOO
-build
-build
-build
-buil
-build
-cd ..
-md functions
-cd fu
-ncmake
-touch app.cpp
-ls
-cat app.cpp 
-ls
 cd ..
 cd functions/
 ls
@@ -497,4 +357,144 @@ clear
 cd
 n .bashrc 
 n .bashrc 
+exit
+n .config/i3/config 
+bp
+lf
+cd cpp
+ls
+cat enums/app.cpp 
+c
+cd cmake-build-debug/
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+c
+./conditional_statments 
+c
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+c
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+1
+./conditional_statments 
+c
+npm install -g prettier
+node --version
+s node
+yay node
+c
+./conditional_statments 
+./conditional_statments 
+lsd
+lsd -l
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+./conditional_statments 
+reboot 
+killall polybar
+cat .config/i3/config 
+killall syncthing picom
+killall picom
+n .config/i3/config 
+cd fo
+cd cpp
+ls
+cd loops/for_loop/
+cd cmake-build-debug/
+./for_loop 
+exit
+rd nautils
+rd nautilus
+firefox --version
+killall polybar picom
+killall redshift
+n .config/i3/config 
+killall polybar
+killall firefox
+exit
+ls
+cd cpp
+ls
+rm -r learn_clion/
+lf
+cd cpp
+cd code_re-usability/
+cat main.cpp 
+cd
+cd cpp
+ls
+rm -r clion/
+ls
+cat functions/functions_vs_procedures/app.cpp 
+ls
+cat by_val-by_ref/main.cpp 
+cat structures/app.cpp 
+cat structur_enums/app.cpp 
+pwd
+./for_loop 
+./for_loop 
+./for_loop 
+c
+./for_loop 
+./for_loop 
+c
+./for_loop 
+./for_loop 
+./for_loop 
+./for_loop 
+./for_loop 
+./for_loop 
+./for_loop 
+./for_loop 
+./for_loop 
+c
+./for_loop 
+c
+./for_loop 
+./for_loop 
+c
+./for_loop 
+n .config/i3/config 
+systemctl sleep
+man systemctl
+systemctl suspend
+n .config/i3/config 
+killall polybar
+killall picom
+killall picome
 exit
