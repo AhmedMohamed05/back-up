@@ -1,190 +1,3 @@
-cd ..
-cd functions/
-ls
-ls
-build
-build
-build
-ls
-md part_one
-mv * part_one/
-ls
-md part_two
-cd part_two/
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-cd ..
-ls
-ll
-mv part_one/ introduction_to_functions
-mv part_two/ functions_vs_procedures
-md parameters
-cd parameters/
-ls
-ncmake 
-touch app.cpp
-build
-build
-build
-build
-:build
-build
-build
-build
-build
-build
-build
-cd doc
-ls
-rm js.js react-hooks/ vite-tailwind/ 
-rm -r js.js react-hooks/ vite-tailwind/ 
-ls
-cat programming-notc.txt 
-md navbar
-code navbar/ & exit
-cd doc
-ls
-cd frontend-mentor/
-ls
-cat time-tracking/index.html 
-ls
-cat age-calculator-app-main/index.html 
-cd doc
-ls
-cd frontend-mentor/
-ls
-n .config/i3/config 
-htop
-u
-cd cp
-cd par
-ls
-rm app.cpp.bp 
-n app.cpp 
-build
-cd cpp
-ls
-cd structur
-ls
-cd ../structur/
-cd ..
-cd structurs
-ls
-cd structures/
-cat app.cpp 
-sudo pacman -S snapd
-yay snapd
-s snapd
-yay snapd
-yay -S snapd
-yay snap
-yay snapd
-sudo systemctl enable --now snapd.socket
- sudo ln -s /var/lib/snapd/snap /snap
-ls
-rm js.js 
-ls
-ls Public/
-rm virtual-machins/
-rm -r virtual-machins/
-ls
-rm Syncthing/
-rm -r Syncthing/
-ls
-ll
-ls
-snap version
-snap warnings
- sudo snap install clion --classic
- sudo snap install clion --classic
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-buuild
-build
-build
-build
-build
-build
-cd para
-n app.cpp 
-ls
-doas snap install clion --clasac
-doas snap install clion --classic
-clio
-clion
-ls
-ls Public/
-cd /usr/local/bin/
-ls
-./betterlockscreen 
-ln -s /opt/clion/bin/clion.sh clion
-doas ln -s /opt/clion/bin/clion.sh clion
-clion
-clion
-cd /opt/clion/bin
-yay -S clion
-yay -S clion
-a
-a
-yay -S clion
-doas yay -S clion
-reboot 
-yay -S clion
-ls
-s clion
-u
-doas yay -S clion
-yay -S clion
-sudo paccache -r
-mhwd-kernel -li
-sudo mhwd-kernel -r linuxXX
-ls /var/log/
-rm /var/log/*
-y
-rm -r  /var/log/*
-doas rm -r  /var/log/*
-yay -Rns frozen-bubble
-yay -S clion
-clion 
-ls /snap/clion/
-clion 
-ls
-ls
-cd cmake-build-debug/
-ls
-./run 
-ls Testing/
-cd ..
-ls
-ls
-rm cmake-build-debug/
-rm -r cmake-build-debug/
-ls
-ls
-l
-ll
-ls
-build
-ls
-ls
-exit
-htop
 clion 
 yay -Rns clion
 htop
@@ -497,4 +310,191 @@ n .config/i3/config
 killall polybar
 killall picom
 killall picome
+exit
+bp
+cd cpp
+ls
+cd loops/for_loop/
+ls
+ls
+./cmake-build-debug/for_loop 
+cd shell/
+ls
+cat back_up.sh 
+n back_up.sh 
+cd cmake-build-debug/
+./while 
+c
+c
+./while 
+c
+./while 
+c
+./while 
+./while 
+c
+./while 
+./while 
+./while 
+./while 
+./while 
+c
+./while 
+./while 
+./while 
+./while 
+c
+./while 
+./while 
+c
+./while 
+n .config/i3/config 
+n .config/redshift/redshift.conf 
+cat .config/i3/config 
+killall polybar
+htop
+clion
+reboot 
+killall polybar
+clion
+killall firefox
+exit
+killall brave-nightly-browser
+exit
+cd cmake-build-debug/
+./level_4 
+./level_4 
+cd cmake-build-debug/
+c
+./level_4 
+c
+c
+./level_4 
+c
+./level_4 
+c
+./level_4 
+./level_4 
+./level_4 
+c
+c
+./level_4 
+c
+./level_4 
+./level_4 
+./level_4 
+./level_4 
+./level_4 
+./level_4 
+./level_4 
+./level_4 
+./level_4 
+c
+./level_4 
+./level_4 
+./level_4 
+c
+c
+./level_4 
+c
+./level_4 
+./level_4 
+killall firefox
+cat shell/update.sh 
+cd shell/
+n start_up.sh
+chmod +x start_up.sh 
+./start_up.sh 
+redshift
+n start_up.sh 
+./start_up.sh 
+n start_up.sh 
+./start_up.sh 
+n start_up.sh 
+exit
+n .config/i3/config 
+killall redshift
+n .config/i3/config 
+cat .config/i3/config 
+n .config/i3/config 
+cat shell/start_up.sh 
+cd .config/redshift/
+n start.sh
+chmod +x start.sh 
+:wq
+n ../i3/config 
+pwd
+cd sh
+./start_up.sh 
+n ~/.config/i3/config 
+exit
+cat .config/i3/config 
+cat .config/i3/config 
+htop
+cat .config/i3/config 
+htop
+killall brave-nightly-browser
+nitrogen --restore
+exit
+polybar
+brave-nightly 
+cat .config/i3/config 
+n .config/i3/config 
+n .config/i3/config 
+man i3status
+"man" i3status
+"man" i3status
+echo $brithness
+echo $brightness
+pacman -Q | grep pulseaudio
+pamixer 
+pamixer -get-volume
+pamixer --get-volume
+pamixer --get-volume
+pamixer --get-muted
+pamixer --get-mute
+ls
+ls -a
+n .i3status.conf 
+n .i3status.conf 
+pamixer --get-mute
+pamixer --get-mute
+pamixer --get-volume
+pamixer --get-mute
+pamixer --get-volume
+pamixer --get-mute
+pamixer --get-volume
+s plus
+cd shell/
+ls
+cat volume.sh 
+rm volume.sh 
+ls
+n volume_i3status.sh
+chmod +x volume_i3status.sh 
+./volume_i3status.sh 
+./volume_i3status.sh 
+n volume_i3status.sh
+./volume_i3status.sh 
+./volume_i3status.sh 
+./volume_i3status.sh 
+./volume_i3status.sh 
+./volume_i3status.sh 
+./volume_i3status.sh 
+./volume_i3status.sh 
+./volume_i3status.sh 
+./volume_i3status.sh 
+n volume_i3status.sh 
+./volume_i3status.sh 
+./volume_i3status.sh 
+n volume_i3status.sh 
+./volume_i3status.sh 
+./volume_i3status.sh 
+n volume_i3status.sh 
+n volume_i3status.sh 
+./volume_i3status.sh 
+./volume_i3status.sh 
+n volume_i3status.sh 
+cd
+n .config/i3/config 
 exit

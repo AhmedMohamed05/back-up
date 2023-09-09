@@ -193,8 +193,6 @@ bindsym $mod+r mode "resize"
 # finds out, if available)
 bar {
   status_command i3status --config .i3status.conf
-	#mode hide
-	modifier $mod
 }
 
 
@@ -202,15 +200,11 @@ bar {
 #Remove the window title at the top
 new_window 1pixel
 
-# StartUp Apps
-exec_always nitrogen --restore #nitrogen
-#exec_always picom --config ~/.config/picom/picom.conf #picom
-exec_always redshift
-#exec_always syncthing -no-browser -no-restart #Syncthing
-exec_always ~/.config/polybar/./start.sh #Polybar
-
 #Gaps Between Windows
 gaps inner 2px
+
+# start up script
+# exec_always ~/shell/./start_up.sh
 
 #Bightness Cotrol
 bindsym XF86MonBrightnessUp exec brillo -A 10
@@ -218,10 +212,9 @@ bindsym XF86MonBrightnessDown exec brillo -U 10
 
 #Lanuch Key Bindings
 bindsym $mod+c exec code #VSCode
-#bindsym $mod+b exec brave-browser-nightly #Brave Web Browser
-bindsym $mod+b exec firefox #Fire foxWeb Browser
+bindsym $mod+b exec brave-browser-nightly #Web Browser
 bindsym $mod+e exec nautilus #Nautilus File Explorer
-bindsym $mod+y exec firefox youtube.com #Open Youtube.com
+bindsym $mod+y exec brave-browser-nightly-browser youtube.com #Open Youtube.com
 
 #Key Borad Layout
 exec_always setxkbmap -layout us,ara -option grp:alt_shift_toggle
@@ -234,5 +227,5 @@ bindsym Print exec scrot '%Y-%m-%d_%H-%M-%S_screenshot.png' -e 'mv $f ~/Pictures
 
 # power actions
 bindsym $mod+shift+p exec poweroff 
-bindsym $mod+all+p exec reboot 
+bindsym $mod+alt+p exec reboot 
 bindsym $mode+p exec systemctl suspend 
