@@ -1,34 +1,3 @@
-clion 
-yay -Rns clion
-htop
-yay -Rns clion
-yay -Rns clion
-clion 
-htop
-reboot 
-sudo snapd remove clion
-yay -Rns clion
-cd cpp
-ls
-rm -ri  learn_clion/ 
-rm -rv  learn_clion/ 
-ls
-cd cmake
-ls
-./run 
-cd ..
-ls
-cd 
-cd cp
-ls
-cd clion/
-ls
-cd cmake
-ls
-pwd
-killall redshift
-redshift
-n .config/redshift/redshift.conf 
 cd cmake-build-debug/
 pwd
 ll
@@ -498,3 +467,34 @@ n volume_i3status.sh
 cd
 n .config/i3/config 
 exit
+s pluseaudio
+s pulseaudio
+i pulseaudio
+yay -S pulseaduio
+yay pulse
+yay pulse
+2
+2
+yay pulse
+cd shell/
+ls
+ls
+./volume_i3status.sh 
+./volume_i3status.sh 
+pulseaudio 
+pulseaudio --start
+./volume_i3status.sh 
+./volume_i3status.sh 
+./volume_i3status.sh 
+./volume_i3status.sh 
+./volume_i3status.sh 
+pulseaudio 
+s pipwire
+s pip
+s pipewire
+i pipewire
+i pipewire
+yay -S pipewire
+cat shell/start_up.sh 
+cd 
+rm shell/start_up.sh 

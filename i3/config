@@ -203,8 +203,10 @@ new_window 1pixel
 #Gaps Between Windows
 gaps inner 2px
 
-# start up script
-# exec_always ~/shell/./start_up.sh
+# start up applications 
+exec_always nitrogen --restore
+exec_always redshift
+exec_always syncthing
 
 #Bightness Cotrol
 bindsym XF86MonBrightnessUp exec brillo -A 10
