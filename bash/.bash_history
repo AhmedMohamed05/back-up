@@ -1,322 +1,3 @@
-cd cmake-build-debug/
-pwd
-ll
-ls
-./by_val_by_ref 
-ll
-./by_val_by_ref 
-ls
-./by_val_by_ref 
-cd enu
-cat app.cpp 
-cd en
-cd ../enums/
-cat app.cpp 
-cd en
-cat ap
-cat app.cpp 
-ls
-cd cmake-build-debug/
-ls
-./code_re_usability 
-ls
-rm -r Syncthing/
-md Sync
-ls
-cp Pictures/Screenshots/2023-08-16_14-23.png Sync/
-cd Sync/
-ls
-ranger
-syncthing 
-s vlc
-i vlc
-ls /etc/systemd/
-ls /etc/systemd/user/
-systemctl enable syncthing@myuser.service
-systemctl start syncthing@myuser.service
-systemctl enable syncthing@ahmed.service
-systemctl start syncthing@ahmed.service
-systemctl --user enable syncthing.service
-systemctl --user start syncthing.service
-systemctl status syncthing@ahmed.service
-systemctl status
-syncthing
-syncthing
-ls
-cd Sync/
-ls
-rm *
-ls
-md quran pictures
-md other
-cd Sync/
-ls
-lf
-mkdir -p ~/.config/systemd/user/
-n ~/.config/systemd/user/syncthing.service
-systemctl --user enable syncthing.service
-systemctl --user start syncthing.service
-systemctl --user status syncthing.service
-cd Sync/quran/
-ls
-ls
-cd ../pictures/
-ls
-ls
-ls
-ls
-ranger
-ranger
-rm Screenshot_20230904-112511_Clash\ of\ Clans.png 
-cd
-exit
-syncthing 
-systemctl status syncthing@archlinux.service
-systemctl status syncthing@archlinux.service
-syncthing 
-sudo pacman -Rns syncthing
-sudo pacman -Rns syncthing
-i syncthing
-syncthing 
-sudo systemctl stop syncthing
-sudo systemctl disable syncthing
-2sudo rm /etc/systemd/system/syncthing.service
-sudo rm /etc/systemd/system/syncthing.service
-sudo systemctl daemon-reload
-syncthing 
-htop
-syncthing 
-syncthing -no-browser -no-restart
-n .config/i3/config 
-killall redshift
-killall redshift
-htop
-s tumx
-s tumx | grep
-ysy tumx
-tmix
-ls
-ll
-ls
-exit
-ll
-ls
-cd cmake-build-debug/
-./arrays 
-./arrays 
-./arrays 
-ll
-./arrays 
-reboot 
-htop
-n .config/i3/config 
-exit
-i youtube-dl
-cd Sync/quran/
-ls
-man youtube-dl
-youtube-dl -x --audio-format mp3 'https://www.youtube.com/watch?v=ODESBIuUl28'
-doas pacman -Rns youtube-dl
-killall polybar
-exit
-n .config/i3/config 
-killall polybar && polybar
-polybar
-polybar
-n .config/polybar/config.ini 
-bp
-bp
-htopp
-htop
-htop
-killall picom
-ls
-ls
-killall polybar
-cd cmake-build-debug/
-./conditional_statments 
-clear
-cd
-n .bashrc 
-n .bashrc 
-exit
-n .config/i3/config 
-bp
-lf
-cd cpp
-ls
-cat enums/app.cpp 
-c
-cd cmake-build-debug/
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-c
-./conditional_statments 
-c
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-c
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-1
-./conditional_statments 
-c
-npm install -g prettier
-node --version
-s node
-yay node
-c
-./conditional_statments 
-./conditional_statments 
-lsd
-lsd -l
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-./conditional_statments 
-reboot 
-killall polybar
-cat .config/i3/config 
-killall syncthing picom
-killall picom
-n .config/i3/config 
-cd fo
-cd cpp
-ls
-cd loops/for_loop/
-cd cmake-build-debug/
-./for_loop 
-exit
-rd nautils
-rd nautilus
-firefox --version
-killall polybar picom
-killall redshift
-n .config/i3/config 
-killall polybar
-killall firefox
-exit
-ls
-cd cpp
-ls
-rm -r learn_clion/
-lf
-cd cpp
-cd code_re-usability/
-cat main.cpp 
-cd
-cd cpp
-ls
-rm -r clion/
-ls
-cat functions/functions_vs_procedures/app.cpp 
-ls
-cat by_val-by_ref/main.cpp 
-cat structures/app.cpp 
-cat structur_enums/app.cpp 
-pwd
-./for_loop 
-./for_loop 
-./for_loop 
-c
-./for_loop 
-./for_loop 
-c
-./for_loop 
-./for_loop 
-./for_loop 
-./for_loop 
-./for_loop 
-./for_loop 
-./for_loop 
-./for_loop 
-./for_loop 
-c
-./for_loop 
-c
-./for_loop 
-./for_loop 
-c
-./for_loop 
-n .config/i3/config 
-systemctl sleep
-man systemctl
-systemctl suspend
-n .config/i3/config 
-killall polybar
-killall picom
-killall picome
-exit
-bp
-cd cpp
-ls
-cd loops/for_loop/
-ls
-ls
-./cmake-build-debug/for_loop 
-cd shell/
-ls
-cat back_up.sh 
-n back_up.sh 
-cd cmake-build-debug/
-./while 
-c
-c
-./while 
-c
-./while 
-c
-./while 
-./while 
-c
-./while 
-./while 
-./while 
-./while 
-./while 
-c
-./while 
-./while 
-./while 
-./while 
-c
-./while 
-./while 
-c
-./while 
 n .config/i3/config 
 n .config/redshift/redshift.conf 
 cat .config/i3/config 
@@ -498,3 +179,322 @@ yay -S pipewire
 cat shell/start_up.sh 
 cd 
 rm shell/start_up.sh 
+vim .config/i3/config 
+sudo pacman -S git
+vim /etc/pacman.conf 
+ls
+mkdir repos 
+cd repos/
+git clone https://github.com/AhmedMohamed05/config-files
+ls
+cd config-files/
+ls
+ls bash/
+cd bash/
+ls -a
+cp .* ~/
+cp .* ~/.
+cp .* ../../../
+cp .bash* ../../../
+cd
+ls
+ls -a
+ls
+ll
+i lsd zoxie tldr yay
+sudo pacman -S lsd zoxie tldr yay
+sudo pacman -S lsd zoxide tldr
+sudo pacman -S doas
+cat .bashrc 
+vim .config/i3/config 
+cd repos/config-files/
+ls
+cd repos/config-files/
+'cd' repos/config-files/
+ls
+cp i3/ alacritty/ ~/.config/
+cp -r i3/ alacritty/ ~/.config/
+doas pacman -S firefox
+vim /etc/doas.conf
+sudo vim /etc/doas.conf
+doas 
+ls
+cd repos/
+ls
+cd config-files/
+ls
+cd
+ls
+vim .i3status
+sudo pacman -S firefox
+sudo pacman -S opendoas
+doas ls
+doas ls
+doas ls
+sudo vim /etc/doas.conf
+doas ls
+sudo vim /etc/doas.conf
+doas ls
+htop 
+ls
+vim /etc/X11/xorg.conf.d/touchpad-tap.conf
+sudo vim /etc/X11/xorg.conf.d/touchpad-tap.conf
+xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Tapping Enabled" 1
+xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Tapping Enabled" 1
+sudo pacman -S xinput
+sudo pacman -Ss xinput
+sudo pacman -Ss xorg-xinput
+sudo pacman -S xorg-xinput
+sudo vim /etc/pacman.conf 
+sudo vim /etc/doas.conf 
+i plug-manager
+s plug-manager
+s plug
+s plugins
+s vim-plug
+i vim-plug
+i curl
+i curl ~/.vim/autoload/plug.vim --create-dirs \
+curl ~/.vim/autoload/plug.vim --create-dirs \
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+curl -flo ~/.vim/autoload/plug.vim --create-dirs \
+curl -flo ~/.vim/autoload/plug.vim --create-dirs \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+doas ls
+xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Tapping Enabled" 1
+doas vim /etc/X11/xorg.conf.d/00-keyboard.conf 
+هلو
+ls
+cd conf
+ls
+ls clion/
+i neovim
+ls
+cp -r  shell/ ~/
+cd
+ls
+cd shell/
+ls
+rm test.js 
+./update.sh 
+ls
+cat volume
+cat volume.sh 
+i pamixer
+cd
+ll -a
+ls -a
+vim .i3status
+cd co
+ls
+ls
+cp -r  nvim/ ~/.config/
+cd 
+n .i3status
+ls
+ls Downloads/
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+n
+cd repos/
+ls
+ sudo git clone https://aur.archlinux.org/yay-git.git
+sudo chown -R tecmint:tecmint ./yay-git
+sudo chown -R ahmed ./yay-git
+cd yay-git/
+makepkg -si
+yay -s
+cd
+yay -S visual-studio-code-bin
+yay brave
+ls
+n .i3status 
+cat /etc/i3status.conf 
+cp /etc/i3status.conf .i3status.conf
+n .i3status
+man i3stauts
+"man" i3status
+i man
+"man" i3status
+brave-beta 
+brave-browser-beta 
+n .config/i3/config 
+s node
+s nodejs
+i node
+i nodejs
+i fsaeach
+i fsearch
+yay fsearch
+rm .i3status
+n .i3status.conf 
+yay firecode
+yay fiar
+yay fire
+yay firacode
+ls
+cd .conf
+cd .config/
+ls
+cd alacritty/
+ls
+cat alacritty.yml 
+n alacritty.yml 
+cd ../i3/
+n config 
+exit
+ls
+cd
+cd shell/
+ls
+cd ..
+ls
+cd
+ls
+n
+i firacode
+yay -S firacode
+yay nerd
+yay nerd | grep font
+yay -S nerd-fonts
+yay nerd-fonts
+yay nerd-fonts | grep nerd
+ls
+yay syncthing
+i nitrogen
+n
+ls
+i lf
+cd Downloads/fonts/
+ls
+i unzip
+unzip Cairo.zip 
+ls
+md cairo
+mv -r * cairo
+ls
+mv  * cairo
+cd cairo/
+ls
+n .config/i3/config 
+md Documents
+cd Documents/
+ls
+md 50projects-50days
+exit
+cd 5
+cd Documents/
+cd 50projects-50days/
+cd
+cd 5
+ls
+md 1
+cd 1/
+touch index.html main.css main.js
+cd ..
+cd
+ls
+n .config/alacritty/alacritty.yml 
+cd Downloads/fonts/
+ls
+cd cairo/
+ls
+cd static/
+ls
+cd ..
+cd
+cp Downloads/fonts/cairo/static/* .local/share/fonts/cairo/
+exit
+cd .local/
+ls
+cd share/
+ls
+md fonts
+cd f
+cd sh
+cd fonts/
+ls
+md cairo
+ls
+ls
+ls cairo/
+fc-cache -f
+fc-cache -fv
+cd 
+cd .config/
+ls
+pwd
+md fontconfig
+cd fontconfig/
+ls
+n fonts.conf
+doas fonts.conf /etc/fonts/local.conf
+doas cp fonts.conf /etc/fonts/local.conf
+fc-cache -fv
+doas fc-cache -fv
+n .config/fontconfig/fonts.conf 
+cd Downloads/fonts/cairo/
+ls
+cd static/
+ls
+cat .config/i3/config 
+reboot 
+ls
+exit
+ls
+n .config/alacritty/alacritty.yml 
+exit
+ls
+n .config/alacritty/alacritty.yml 
+i alacritty-themes
+npm i -g alacritty-themes
+i node
+i nodejs
+i npm
+npm i -g alacritty-themes
+npm i -g alacritty-themes
+doas npm i -g alacritty-themes
+ls
+alacritty-themes
+ls
+alacritty-themes
+alacritty-themes
+alacritty-themes
+n .config/alacritty/alacritty.yml
+cd
+exit
+cat .config/i3/config 
+i scrot
+ls
+md Pictures
+cd Pictures/
+md Screenshsots
+cd
+mv 2023-09-11_08-37-18_screenshot.png Pictures/Screenshsots/
+cat .config/i3/config 
+ls
+ls
+ls
+ls
+ls
+ll
+ls
+bp
+git config --global user.email "ahmedm1232344@gmail.com"
+git config --global user.name "AhmedMohamed05"
+i ssh
+bp
+cd repos/
+ls
+doas rm -rv config-files/
+ls
+git@github.com:AhmedMohamed05/config-files.git
+git@github.com:AhmedMohamed05/config-files.git
+git clone git@github.com:AhmedMohamed05/config-files.git
+ls
+git clone git@github.com:AhmedMohamed05/config-files.git
+doas git clone git@github.com:AhmedMohamed05/config-files.git
+ssh-keygen -t rsa -b 4096 -C "ahmedm1232344@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+ssh-add -l
+exit
