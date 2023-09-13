@@ -1,40 +1,3 @@
-cd shell/
-ls
-rm test.js 
-./update.sh 
-ls
-cat volume
-cat volume.sh 
-i pamixer
-cd
-ll -a
-ls -a
-vim .i3status
-cd co
-ls
-ls
-cp -r  nvim/ ~/.config/
-cd 
-n .i3status
-ls
-ls Downloads/
-sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
-       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
-n
-cd repos/
-ls
- sudo git clone https://aur.archlinux.org/yay-git.git
-sudo chown -R tecmint:tecmint ./yay-git
-sudo chown -R ahmed ./yay-git
-cd yay-git/
-makepkg -si
-yay -s
-cd
-yay -S visual-studio-code-bin
-yay brave
-ls
-n .i3status 
-cat /etc/i3status.conf 
 cp /etc/i3status.conf .i3status.conf
 n .i3status
 man i3stauts
@@ -498,3 +461,40 @@ yay ctpv
 lf
 s stpv
 yay stpv
+lf
+lf -config ~/.config/lf/lfrc 
+ls
+ls -a
+n .config/lf/lfrc 
+cp -v .config/lf/lfrc .lfrc
+lf
+n shell/back_up.sh 
+md repos/lf
+bp
+lf
+ls
+lf
+n .config/alacritty/alacritty.yml
+ls
+lf
+lf
+lf -doc
+n .lfrc 
+lf
+mv .lfrc lf
+lf
+lf
+rm lf 
+ls
+lf
+lf
+n .config/lf/lfrc 
+cd
+ls
+n .bashrc 
+curl https://raw.githubusercontent.com/gokcehan/lf/master/etc/icons.example -o ~/.config/lf/icons
+cd .config/lf/
+ls
+n icons 
+f
+lf
