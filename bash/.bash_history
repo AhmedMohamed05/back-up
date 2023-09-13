@@ -1,277 +1,3 @@
-n .config/i3/config 
-n .config/redshift/redshift.conf 
-cat .config/i3/config 
-killall polybar
-htop
-clion
-reboot 
-killall polybar
-clion
-killall firefox
-exit
-killall brave-nightly-browser
-exit
-cd cmake-build-debug/
-./level_4 
-./level_4 
-cd cmake-build-debug/
-c
-./level_4 
-c
-c
-./level_4 
-c
-./level_4 
-c
-./level_4 
-./level_4 
-./level_4 
-c
-c
-./level_4 
-c
-./level_4 
-./level_4 
-./level_4 
-./level_4 
-./level_4 
-./level_4 
-./level_4 
-./level_4 
-./level_4 
-c
-./level_4 
-./level_4 
-./level_4 
-c
-c
-./level_4 
-c
-./level_4 
-./level_4 
-killall firefox
-cat shell/update.sh 
-cd shell/
-n start_up.sh
-chmod +x start_up.sh 
-./start_up.sh 
-redshift
-n start_up.sh 
-./start_up.sh 
-n start_up.sh 
-./start_up.sh 
-n start_up.sh 
-exit
-n .config/i3/config 
-killall redshift
-n .config/i3/config 
-cat .config/i3/config 
-n .config/i3/config 
-cat shell/start_up.sh 
-cd .config/redshift/
-n start.sh
-chmod +x start.sh 
-:wq
-n ../i3/config 
-pwd
-cd sh
-./start_up.sh 
-n ~/.config/i3/config 
-exit
-cat .config/i3/config 
-cat .config/i3/config 
-htop
-cat .config/i3/config 
-htop
-killall brave-nightly-browser
-nitrogen --restore
-exit
-polybar
-brave-nightly 
-cat .config/i3/config 
-n .config/i3/config 
-n .config/i3/config 
-man i3status
-"man" i3status
-"man" i3status
-echo $brithness
-echo $brightness
-pacman -Q | grep pulseaudio
-pamixer 
-pamixer -get-volume
-pamixer --get-volume
-pamixer --get-volume
-pamixer --get-muted
-pamixer --get-mute
-ls
-ls -a
-n .i3status.conf 
-n .i3status.conf 
-pamixer --get-mute
-pamixer --get-mute
-pamixer --get-volume
-pamixer --get-mute
-pamixer --get-volume
-pamixer --get-mute
-pamixer --get-volume
-s plus
-cd shell/
-ls
-cat volume.sh 
-rm volume.sh 
-ls
-n volume_i3status.sh
-chmod +x volume_i3status.sh 
-./volume_i3status.sh 
-./volume_i3status.sh 
-n volume_i3status.sh
-./volume_i3status.sh 
-./volume_i3status.sh 
-./volume_i3status.sh 
-./volume_i3status.sh 
-./volume_i3status.sh 
-./volume_i3status.sh 
-./volume_i3status.sh 
-./volume_i3status.sh 
-./volume_i3status.sh 
-n volume_i3status.sh 
-./volume_i3status.sh 
-./volume_i3status.sh 
-n volume_i3status.sh 
-./volume_i3status.sh 
-./volume_i3status.sh 
-n volume_i3status.sh 
-n volume_i3status.sh 
-./volume_i3status.sh 
-./volume_i3status.sh 
-n volume_i3status.sh 
-cd
-n .config/i3/config 
-exit
-s pluseaudio
-s pulseaudio
-i pulseaudio
-yay -S pulseaduio
-yay pulse
-yay pulse
-2
-2
-yay pulse
-cd shell/
-ls
-ls
-./volume_i3status.sh 
-./volume_i3status.sh 
-pulseaudio 
-pulseaudio --start
-./volume_i3status.sh 
-./volume_i3status.sh 
-./volume_i3status.sh 
-./volume_i3status.sh 
-./volume_i3status.sh 
-pulseaudio 
-s pipwire
-s pip
-s pipewire
-i pipewire
-i pipewire
-yay -S pipewire
-cat shell/start_up.sh 
-cd 
-rm shell/start_up.sh 
-vim .config/i3/config 
-sudo pacman -S git
-vim /etc/pacman.conf 
-ls
-mkdir repos 
-cd repos/
-git clone https://github.com/AhmedMohamed05/config-files
-ls
-cd config-files/
-ls
-ls bash/
-cd bash/
-ls -a
-cp .* ~/
-cp .* ~/.
-cp .* ../../../
-cp .bash* ../../../
-cd
-ls
-ls -a
-ls
-ll
-i lsd zoxie tldr yay
-sudo pacman -S lsd zoxie tldr yay
-sudo pacman -S lsd zoxide tldr
-sudo pacman -S doas
-cat .bashrc 
-vim .config/i3/config 
-cd repos/config-files/
-ls
-cd repos/config-files/
-'cd' repos/config-files/
-ls
-cp i3/ alacritty/ ~/.config/
-cp -r i3/ alacritty/ ~/.config/
-doas pacman -S firefox
-vim /etc/doas.conf
-sudo vim /etc/doas.conf
-doas 
-ls
-cd repos/
-ls
-cd config-files/
-ls
-cd
-ls
-vim .i3status
-sudo pacman -S firefox
-sudo pacman -S opendoas
-doas ls
-doas ls
-doas ls
-sudo vim /etc/doas.conf
-doas ls
-sudo vim /etc/doas.conf
-doas ls
-htop 
-ls
-vim /etc/X11/xorg.conf.d/touchpad-tap.conf
-sudo vim /etc/X11/xorg.conf.d/touchpad-tap.conf
-xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Tapping Enabled" 1
-xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Tapping Enabled" 1
-sudo pacman -S xinput
-sudo pacman -Ss xinput
-sudo pacman -Ss xorg-xinput
-sudo pacman -S xorg-xinput
-sudo vim /etc/pacman.conf 
-sudo vim /etc/doas.conf 
-i plug-manager
-s plug-manager
-s plug
-s plugins
-s vim-plug
-i vim-plug
-i curl
-i curl ~/.vim/autoload/plug.vim --create-dirs \
-curl ~/.vim/autoload/plug.vim --create-dirs \
-curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-curl -flo ~/.vim/autoload/plug.vim --create-dirs \
-curl -flo ~/.vim/autoload/plug.vim --create-dirs \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-doas ls
-xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Tapping Enabled" 1
-doas vim /etc/X11/xorg.conf.d/00-keyboard.conf 
-هلو
-ls
-cd conf
-ls
-ls clion/
-i neovim
-ls
-cp -r  shell/ ~/
-cd
-ls
 cd shell/
 ls
 rm test.js 
@@ -498,3 +224,277 @@ eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_rsa
 ssh-add -l
 exit
+cd repos/
+ls
+git clone git@github.com:AhmedMohamed05/config-files.git
+doas git@github.com:AhmedMohamed05/config-files.git
+doas git clonegit@github.com:AhmedMohamed05/config-files.git
+doas git clone git@github.com:AhmedMohamed05/config-files.git
+doas git clone git@github.com:AhmedMohamed05/config-files.git
+git clone git@github.com:AhmedMohamed05/config-files.git
+cd
+ls
+ls -a
+ll
+la
+ls -a
+ls  .ssh/id_rsa
+cd .ssh/
+ls
+cat id_rsa.pub 
+cd re
+git clone git@github.com:AhmedMohamed05/config-files.git
+git clone git@github.com:AhmedMohamed05/config-files.git
+ll
+ls
+bp
+cat .config/i3/config 
+yay brillo
+brillo -U 10
+doas brillo -U 10
+n .config/i3/config 
+cd Documents/
+ls
+ls
+cd 50projects-50days/
+ls
+git status
+cd Documents/50projects-50days/1/
+ls
+cat index.html 
+cat main.css 
+cd ..
+ls
+doas rm -r 50projects-50days/
+gc git@github.com:AhmedMohamed05/50projects-50days.git
+code 50projects-50days/ 
+cp repos/config-files/backgrounds/ /usr/share/
+cp -r -vrepos/config-files/backgrounds/ /usr/share/
+cp -r -v repos/config-files/backgrounds/ /usr/share/
+doas cp -r -v repos/config-files/backgrounds/ /usr/share/
+ls
+a
+s clion
+yay clion
+i redshift
+i libnotify-bin
+i gcc
+s dunst
+i dunst
+htop 
+clion 
+yay -S clion
+clion 
+clion
+clion
+i snapd
+s snap
+i snap
+i snapd
+yay snap
+yay snapd
+systemctl enable --now snapd.socket
+doas systemctl enable --now snapd.socket
+doas snap install clion --classic
+sudo snap install clion --classic
+sudo ln -s /var/lib/snapd/snap /snap
+sudo snap install clion --classic
+sudo snap install clion --classic
+doas snap install clion --classic
+sudo snap install clion --classic
+clion
+clion
+s jdk
+s jdr
+sudo pacman -Rns clion
+cd ..
+md cpp
+code cpp/
+htop
+gcc -v
+yay gcc
+i gcc
+sudo pacman -Rns gcc
+cd cpp
+cd Documents/cpp/
+ls
+./main 
+cd "/home/ahmed/Documents/cpp/" && g++ main.cpp -o main && "/home/ahmed/Documents/cpp/"main
+cd cpp
+pwd
+lss
+ls
+pwd
+cd "/home/ahmed/Documents/cpp/" && g++ main.cpp -o main && "/home/ahmed/Documents/cpp/"main
+ls
+g++ main.cpp -o main 
+./main 
+g++ main.cpp -o main && ./main
+g++ main.cpp -o main && ./main
+cd "/home/ahmed/Documents/cpp/" && g++ main.cpp -o main && "/home/ahmed/Documents/cpp/"main
+cd "/home/ahmed/Documents/cpp/" && g++ main.cpp -o main && "/home/ahmed/Documents/cpp/"main
+g++ main.cpp -o main && ./main 
+exit
+ping google.om
+ping google.com
+cd Documents/
+rm -rv cpp/
+ls
+pwd
+ls
+cd cpp/
+ls
+dust
+i dust
+dust
+exit
+cd "/home/ahmed/Documents/cpp/" && g++ main.cpp -o main && "/home/ahmed/Documents/cpp/"main
+g++ main.cpp -o main && main
+g++ main.cpp -o main && ./main
+ls
+cd
+cd pp
+ls
+cd level_4/
+ls
+rm -rv build/ main 
+ls
+g++ main.cpp -o main && ./main
+cd cp
+cd level_4/
+ls
+cd ..
+rm -rv level_4/
+cd ..
+md problem-solving-with-cpp
+code problem-solving-with-cpp/ && exit
+cd "/home/ahmed/Documents/cpp/level_4/" && g++ main.cpp -o main && "/home/ahmed/Documents/cpp/level_4/"main
+i cmake
+n shell/build.sh 
+exit
+i clang
+s clang
+yay clang
+yay c++
+s cpp
+yay cpp
+exit
+ls
+cat .config/i3/config 
+echo $f
+echo "$f"
+echo $NAME
+echo $PS1
+ls
+rm -v 2023-09-12_11-54-49_screenshot.png 
+htop
+killall redshift
+redshift
+cp -v repos/config-files/redshift .config/
+cp -vr repos/config-files/redshift .config/
+redshift
+n .config/redshift/redshift.conf 
+n .config/redshift/start.sh 
+i build-essential
+yay build-essential
+sudo snap install build-essential
+doas sudo pacman -Sy base-devel
+g++ --version
+i g++
+cd build/
+ls
+cmake ..
+cmake ..
+make
+./main 
+cd ..
+build
+build
+'/home/ahmed/Documents/problem-solving-with-cpp/main.cpp'
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+cd build/
+cmake ..
+make
+cmake ..
+make
+./r
+./main 
+./main 
+cd ..
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+i telegram-desktop
+i telegram-desktop
+htop
+scrot
+ls
+rm 2023-09-13-034229_1366x768_scrot.png 
+lf
+lf
+lf
+man lf
+'man' lf
+lf
+'man' lf
+'man' lf
+i telegram-desktop
+doas rm -rv /var/lib/pacman/db.lck 
+i telegram-desktop
+i telegram-desktop
+ls
+ls -a
+ll
+rm 2023-09-13_03-43-10_screenshot.png 
+lf
+cd .config/
+ls
+md lf
+cd lf/
+ls
+n lfrc
+lf
+lf -doc
+lf
+s skipview
+s ctpv-git
+yay ctpv-gt
+yay ctpv-git
+lf
+i stpv
+i ctpv
+yay ctpv
+lf
+s stpv
+yay stpv

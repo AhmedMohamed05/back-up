@@ -15,6 +15,7 @@ cp -vr ~/.bash* $back_up_dir_path/bash
 cp -vr ~/.inputrc $back_up_dir_path/bash
 #cp -vr ~/.token.txt $back_up_dir_path
 cp -vr /usr/share/backgrounds/ $back_up_dir_path
+cp -v ~/.lfrc ~/repos/config-files/lf
 
 current_date=$(date +%Y-%m-%d)
 USERNAME="AhmedMohamed05"

@@ -10,6 +10,6 @@ make
 
 clear
 
-./run
+./main
 
 cd ..
