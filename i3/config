@@ -209,8 +209,8 @@ exec_always nitrogen --restore
 exec_always redshift
 
 #Bightness Cotrol
-bindsym XF86MonBrightnessUp exec doas brillo -A 10
-bindsym XF86MonBrightnessDown exec doas brillo -U 10
+bindsym XF86MonBrightnessUp exec doas brillo -A 5 
+bindsym XF86MonBrightnessDown exec doas brillo -U 5
 
 #Lanuch Key Bindings
 bindsym $mod+c exec code #VSCode

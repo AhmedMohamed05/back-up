@@ -1,128 +1,3 @@
-cp /etc/i3status.conf .i3status.conf
-n .i3status
-man i3stauts
-"man" i3status
-i man
-"man" i3status
-brave-beta 
-brave-browser-beta 
-n .config/i3/config 
-s node
-s nodejs
-i node
-i nodejs
-i fsaeach
-i fsearch
-yay fsearch
-rm .i3status
-n .i3status.conf 
-yay firecode
-yay fiar
-yay fire
-yay firacode
-ls
-cd .conf
-cd .config/
-ls
-cd alacritty/
-ls
-cat alacritty.yml 
-n alacritty.yml 
-cd ../i3/
-n config 
-exit
-ls
-cd
-cd shell/
-ls
-cd ..
-ls
-cd
-ls
-n
-i firacode
-yay -S firacode
-yay nerd
-yay nerd | grep font
-yay -S nerd-fonts
-yay nerd-fonts
-yay nerd-fonts | grep nerd
-ls
-yay syncthing
-i nitrogen
-n
-ls
-i lf
-cd Downloads/fonts/
-ls
-i unzip
-unzip Cairo.zip 
-ls
-md cairo
-mv -r * cairo
-ls
-mv  * cairo
-cd cairo/
-ls
-n .config/i3/config 
-md Documents
-cd Documents/
-ls
-md 50projects-50days
-exit
-cd 5
-cd Documents/
-cd 50projects-50days/
-cd
-cd 5
-ls
-md 1
-cd 1/
-touch index.html main.css main.js
-cd ..
-cd
-ls
-n .config/alacritty/alacritty.yml 
-cd Downloads/fonts/
-ls
-cd cairo/
-ls
-cd static/
-ls
-cd ..
-cd
-cp Downloads/fonts/cairo/static/* .local/share/fonts/cairo/
-exit
-cd .local/
-ls
-cd share/
-ls
-md fonts
-cd f
-cd sh
-cd fonts/
-ls
-md cairo
-ls
-ls
-ls cairo/
-fc-cache -f
-fc-cache -fv
-cd 
-cd .config/
-ls
-pwd
-md fontconfig
-cd fontconfig/
-ls
-n fonts.conf
-doas fonts.conf /etc/fonts/local.conf
-doas cp fonts.conf /etc/fonts/local.conf
-fc-cache -fv
-doas fc-cache -fv
-n .config/fontconfig/fonts.conf 
-cd Downloads/fonts/cairo/
-ls
 cd static/
 ls
 cat .config/i3/config 
@@ -498,3 +373,128 @@ ls
 n icons 
 f
 lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+p
+p
+p
+lf
+lf
+lf
+lf
+lf
+lf
+n .config/lf/lfrc 
+bp
+lf
+n .config/lf/icons 
+code Documents/problem-solving-with-cpp/ && exit
+cmake --version
+n .config/i3/config 
+killall redshift
+cd "/home/ahmed/Documents/problem-solving-with-cpp/" && g++ main.cpp -o main && "/home/ahmed/Documents/problem-solving-with-cpp/"main
+ls
+build
+build
+build
+build
+build
+cd cp
+ls
+cd build/
+ls main 
+./main 
+ls main 
+ls
+/usr/bin/g++ -g -o CMakeFiles/main.dir/main.cpp.o -c /home/ahmed/Documents/problem-solving-with-cpp/main.cpp
+cd ..
+build
+build
+build
+build
+build
+build
+exit
+/home/ahmed/Documents/problem-solving-with-cpp/build/main
+cd ..
+build
+build
+build
+build
+build
+build
+build
+redshift
+n .config/redshift/redshift.conf 
+cd .config/redshift/
+n start.sh 
+rm -v start.sh 
+n redshift.conf 
+killall redshift 
+redshift
+killall redshift 
+redshift
+redshift
+redshift
+build
+build
+build
+lsblk
+lsblk
+lsblk
+lsblk
+lsblk
+lsblk
+lsblk
+lsblk
+lsblk
+lsblk
+lsblk
+lsblk
+s nautils
+s nautiles
+s nautilse
+s naut
+s nauti
+i nautilus
+lf
+killall nautilus
+reboot 
+lsblk
+reboot 
+lsblk
+lsblk
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+ls
+cd
+lsblk
+sudo blkid
+sudo fdisk -l
+ls
+lf
+lsblk
+sudo fdisk -l
+sudo blkid
+killall redshfit
+killall redshift
+n .config/redshift/redshift.conf 
+redshift
