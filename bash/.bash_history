@@ -1,112 +1,3 @@
-cd static/
-ls
-cat .config/i3/config 
-reboot 
-ls
-exit
-ls
-n .config/alacritty/alacritty.yml 
-exit
-ls
-n .config/alacritty/alacritty.yml 
-i alacritty-themes
-npm i -g alacritty-themes
-i node
-i nodejs
-i npm
-npm i -g alacritty-themes
-npm i -g alacritty-themes
-doas npm i -g alacritty-themes
-ls
-alacritty-themes
-ls
-alacritty-themes
-alacritty-themes
-alacritty-themes
-n .config/alacritty/alacritty.yml
-cd
-exit
-cat .config/i3/config 
-i scrot
-ls
-md Pictures
-cd Pictures/
-md Screenshsots
-cd
-mv 2023-09-11_08-37-18_screenshot.png Pictures/Screenshsots/
-cat .config/i3/config 
-ls
-ls
-ls
-ls
-ls
-ll
-ls
-bp
-git config --global user.email "ahmedm1232344@gmail.com"
-git config --global user.name "AhmedMohamed05"
-i ssh
-bp
-cd repos/
-ls
-doas rm -rv config-files/
-ls
-git@github.com:AhmedMohamed05/config-files.git
-git@github.com:AhmedMohamed05/config-files.git
-git clone git@github.com:AhmedMohamed05/config-files.git
-ls
-git clone git@github.com:AhmedMohamed05/config-files.git
-doas git clone git@github.com:AhmedMohamed05/config-files.git
-ssh-keygen -t rsa -b 4096 -C "ahmedm1232344@gmail.com"
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_rsa
-ssh-add -l
-exit
-cd repos/
-ls
-git clone git@github.com:AhmedMohamed05/config-files.git
-doas git@github.com:AhmedMohamed05/config-files.git
-doas git clonegit@github.com:AhmedMohamed05/config-files.git
-doas git clone git@github.com:AhmedMohamed05/config-files.git
-doas git clone git@github.com:AhmedMohamed05/config-files.git
-git clone git@github.com:AhmedMohamed05/config-files.git
-cd
-ls
-ls -a
-ll
-la
-ls -a
-ls  .ssh/id_rsa
-cd .ssh/
-ls
-cat id_rsa.pub 
-cd re
-git clone git@github.com:AhmedMohamed05/config-files.git
-git clone git@github.com:AhmedMohamed05/config-files.git
-ll
-ls
-bp
-cat .config/i3/config 
-yay brillo
-brillo -U 10
-doas brillo -U 10
-n .config/i3/config 
-cd Documents/
-ls
-ls
-cd 50projects-50days/
-ls
-git status
-cd Documents/50projects-50days/1/
-ls
-cat index.html 
-cat main.css 
-cd ..
-ls
-doas rm -r 50projects-50days/
-gc git@github.com:AhmedMohamed05/50projects-50days.git
-code 50projects-50days/ 
-cp repos/config-files/backgrounds/ /usr/share/
 cp -r -vrepos/config-files/backgrounds/ /usr/share/
 cp -r -v repos/config-files/backgrounds/ /usr/share/
 doas cp -r -v repos/config-files/backgrounds/ /usr/share/
@@ -498,3 +389,112 @@ killall redshfit
 killall redshift
 n .config/redshift/redshift.conf 
 redshift
+bp
+lf
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+2 4 6 8 10 
+2 4 6 8 10 
+build
+build
+build
+build
+build
+build
+build
+build
+build
+build
+gcc -v
+gcc --version
+s gcc
+s g++
+i gcc gdb g++
+i gcc gdb
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-enhqfnfa.wyb 
+build
+rm -rv output/
+ls
+killall brave-browser
+killall brave-beta
+cd cpp/
+ls
+gcc -h
+hcc --help
+gcc --help
+gcc app.cpp -o app 
+ls
+build
+ls
+rm -r build/
+md cpp
+cd cpp
+ls
+pw
+n app.cpp
+lf
+cat /usr/bin/g++ 
+cat Documents/cpp/arrays/CMakeLists.txt 
+cat Documents/cpp/arrays/CMakeLists.txt 
+s mingw-w64
+i mingw-w64-gcc
+s chess
+s pacman
+s sudoku
+i ksudoku
+i ksudoku
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-u50qrplo.phx 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-ni2kbcwa.xns 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-nluf25ml.nvy 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-nz4iebvx.3dq 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-duotddkf.qgt 
+cd cpp
+ls
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-loay2lkd.tst 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-a1ylabbb.2dl 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-sdrackfs.iu1 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-vn35xnp2.jsj 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-24520sj2.y1m 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-xge2zkyh.d0v 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-hhae3iue.d0l 
+redshift
+s 2048
+yay 2048
+timedatectl 
+ls /etc/localtime 
+timedatectl list-timezonnes
+timedatectl list-timezones
+doas timedatectl set-timezone Asia/Baghdad
+yay --help
+yay -c
+yay --clean
+yay --help
+man yay
+'man' yay
+yay -Syu
+yay -Syu
+yay -Syu
+yay visual-stdio-code-bin
+yay visual-st
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-d2o2wtth.1vu 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-d2o2wtth.1vu 
+ls
+./main 
+./main 
+./main 
+./main 
+n .config/i3/config 
+n .config/i3/config 
