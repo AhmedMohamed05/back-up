@@ -1,5 +1,3 @@
-htop
-killall redshift
 redshift
 cp -v repos/config-files/redshift .config/
 cp -vr repos/config-files/redshift .config/
@@ -496,5 +494,7 @@ mkdirc x/y/z
 mkdir x/y/z
 ls
 rm -rv test/
+bp
+lf
 bp
 lf

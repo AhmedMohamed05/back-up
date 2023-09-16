@@ -1,0 +1,39 @@
+{
+  "center with flex": {
+    "prefix": "cf",
+    "body": [
+      "display: flex;",
+      "align-items: center;",
+      "justify-content: center;"
+    ]
+  },
+  "center with Position": {
+    "prefix": "cp",
+    "body": [
+      "position: absolute;",
+      "left: 50%;",
+      "top: 50%;",
+      "translate: -50% -50%;"
+    ]
+  },
+  "center with Grid": {
+    "prefix": "cg",
+    "body": ["min-height: 100vh;", "display: grid;", "place-items: center;"]
+  },
+  "active": {
+    "prefix": ".active",
+    "body": ".active"
+  },
+  "container": {
+    "prefix": ".container",
+    "body": ".container"
+  },
+  "rest all": {
+    "prefix": "*",
+    "body": ["*{", "box-sizing: border-box;", "margin: 0;", "padding: 0;", "}"]
+  },
+  "Theme": {
+    "prefix": "dark-theme",
+    "body": "html[data-theme='dark']"
+  }
+}

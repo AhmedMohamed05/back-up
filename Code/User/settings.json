@@ -1,0 +1,93 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.linkedEditing": true
+  },
+  "editor.formatOnSave": true,
+  "indentRainbow.colorOnWhiteSpaceOnly": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "explorer.confirmDelete": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.largeFileOptimizations": false,
+  "editor.linkedEditing": true,
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "color-highlight.markerType": "underline",
+  "indentRainbow.colors": [
+    "rgba(255,255,64,0.07)",
+    "rgba(127,255,127,0.07)",
+    "rgba(255,127,255,0.07)",
+    "rgba(79,236,236,0.07)"
+  ],
+  "editor.guides.bracketPairs": true,
+  "tabnine.experimentalAutoImports": true,
+  "todo-tree.highlights.enabled": false,
+  "transparent-win.transparency": 0.7,
+  "glassit.alpha": 200,
+  "glassit.force_sway": true,
+  "grunt.autoDetect": "on",
+  "gulp.autoDetect": "on",
+  "editor.renderWhitespace": "boundary",
+  "editor.minimap.size": "fit",
+  "TransparentMinimap.transparencyLevel": "11",
+  "bashBeautify.tabSize": 2,
+  "path-intellisense.autoSlashAfterDirectory": true,
+  "path-intellisense.autoTriggerNextSuggestion": true,
+  "path-intellisense.extensionOnImport": true,
+  "editor.unicodeHighlight.allowedCharacters": {
+    "ه": true
+  },
+  "jake.autoDetect": "on",
+  "css.lint.unknownAtRules": "ignore",
+  "editor.minimap.enabled": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "cSpell.userWords": ["Btns", "Foldit"],
+  "files.simpleDialog.enable": true,
+  "editor.cursorWidth": 1,
+  "html.format.wrapLineLength": 180,
+  "editor.wordWrap": "on",
+  "security.workspace.trust.untrustedFiles": "open",
+  "git.openRepositoryInParentFolders": "always",
+  "code-runner.runInTerminal": true,
+  "cmake.configureOnOpen": true,
+  "terminal.integrated.env.linux": {},
+  "editor.find.cursorMoveOnType": false,
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#ffffff"
+  },
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "notebook.formatOnSave.enabled": true,
+  "[cpp]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  },
+  "editor.fontFamily": "Arial, monospace",
+  "terminal.integrated.fontFamily": "FiraCode monospace",
+  "editor.cursorBlinking": "expand",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorStyleInactive": "none",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // Auto Close Tags
+  "html.autoClosingTags": true,
+  "javascript.autoClosingTags": true,
+
+  // Auto Import Files And Auto Rename In Js
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.quickSuggestionsDelay": 5,
+  "zenMode.hideLineNumbers": false
+}

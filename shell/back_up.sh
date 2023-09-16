@@ -19,9 +19,9 @@ cp -vr ~/.config/lf $back_up_dir_path
 
 mkdir -p $back_up_dir_path/Code/User
 vs_code_files="/home/ahmed/.config/Code/User"
-cp -vr $svs_code_file/snippets $back_up_dir_path/Code/User
-cp -vr $svs_code_file/keybindings.json $back_up_dir_path/Code/User
-cp -vr $svs_code_file/settings.json $back_up_dir_path/Code/User
+cp -vr $vs_code_files/snippets $back_up_dir_path/Code/User
+cp -vr $vs_code_files/keybindings.json $back_up_dir_path/Code/User
+cp -vr $vs_code_files/settings.json $back_up_dir_path/Code/User
 
 #clear
 

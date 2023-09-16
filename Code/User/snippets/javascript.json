@@ -1,0 +1,35 @@
+{
+  "react structuar": {
+    "prefix": "rs",
+    "description": "react structuar",
+    "body": [
+      "import React from 'react';",
+      "",
+      "const ${1:Name} = () => {",
+      "    return (",
+      "        <div>",
+      "          $3",
+      "        </div>",
+      "    )",
+      "}",
+      "",
+      "export default ${1:Name};"
+    ]
+  },
+  "active class function": {
+    "prefix": "active class",
+    "description": "Active Class Function",
+    "body": [
+      "function activeClassHandler(arr, className) {",
+      "arr.forEach((item) => {",
+      "item.onclick = () => {",
+      "arr.forEach((item) => {",
+      "item.classList.remove(className);",
+      "});",
+      "item.classList.add(className);",
+      "};",
+      "});",
+      "}"
+    ]
+  }
+}
