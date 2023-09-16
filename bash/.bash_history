@@ -1,24 +1,3 @@
-n .config/redshift/start.sh 
-i build-essential
-yay build-essential
-sudo snap install build-essential
-doas sudo pacman -Sy base-devel
-g++ --version
-i g++
-cd build/
-ls
-cmake ..
-cmake ..
-make
-./main 
-cd ..
-build
-build
-'/home/ahmed/Documents/problem-solving-with-cpp/main.cpp'
-build
-build
-build
-build
 build
 build
 build
@@ -498,3 +477,24 @@ lf
 lf
 n shell/back_up.sh 
 bp
+n shell/back_up.sh 
+cd shell/
+bp
+bp
+bp
+bp
+bp
+bp
+bp
+code Documents/cpp/problem-solving-with-cpp/ && exit
+s qemu
+s qemu
+ls
+ll
+./main 
+ls
+whoami
+whereis 
+whereis main.cpp
+whereis index.html
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-0u1450fs.vud 
