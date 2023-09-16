@@ -1,53 +1,3 @@
-cp -r -vrepos/config-files/backgrounds/ /usr/share/
-cp -r -v repos/config-files/backgrounds/ /usr/share/
-doas cp -r -v repos/config-files/backgrounds/ /usr/share/
-ls
-a
-s clion
-yay clion
-i redshift
-i libnotify-bin
-i gcc
-s dunst
-i dunst
-htop 
-clion 
-yay -S clion
-clion 
-clion
-clion
-i snapd
-s snap
-i snap
-i snapd
-yay snap
-yay snapd
-systemctl enable --now snapd.socket
-doas systemctl enable --now snapd.socket
-doas snap install clion --classic
-sudo snap install clion --classic
-sudo ln -s /var/lib/snapd/snap /snap
-sudo snap install clion --classic
-sudo snap install clion --classic
-doas snap install clion --classic
-sudo snap install clion --classic
-clion
-clion
-s jdk
-s jdr
-sudo pacman -Rns clion
-cd ..
-md cpp
-code cpp/
-htop
-gcc -v
-yay gcc
-i gcc
-sudo pacman -Rns gcc
-cd cpp
-cd Documents/cpp/
-ls
-./main 
 cd "/home/ahmed/Documents/cpp/" && g++ main.cpp -o main && "/home/ahmed/Documents/cpp/"main
 cd cpp
 pwd
@@ -498,3 +448,53 @@ ls
 ./main 
 n .config/i3/config 
 n .config/i3/config 
+bp
+yay -Syu
+doas yay -Syu
+lf
+cd cpp
+ls
+n CMakeLists.txt
+ls
+build
+n CMakeLists.txt 
+build
+ls
+cd build/
+ls
+ls
+make
+make
+make
+./main 
+./main 
+cd
+cd cpp
+build
+build
+build
+build
+build
+build
+cd build/
+cmake ..
+make 
+ls
+cd cpp/
+ls
+rm *
+ls
+rm -rv *
+n app.cpp
+n shell/build.sh 
+lf
+n .config/lf/icons 
+code Documents/fornt-end/50projects-50days/ && exit
+lf 
+exit
+ll
+ls
+u
+n shell/update.sh 
+u
+yay -Syu
