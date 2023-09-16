@@ -1,4 +1,3 @@
-i clang
 s clang
 yay clang
 yay c++
@@ -498,3 +497,4 @@ ls
 ls
 ls
 ls
+bp
