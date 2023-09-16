@@ -23,7 +23,7 @@ cp -vr $svs_code_file/snippets $back_up_dir_path/Code/User
 cp -vr $svs_code_file/keybindings.json $back_up_dir_path/Code/User
 cp -vr $svs_code_file/settings.json $back_up_dir_path/Code/User
 
-clear
+#clear
 
 current_date=$(date +%Y-%m-%d)
 USERNAME="AhmedMohamed05"
