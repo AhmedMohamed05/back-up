@@ -1,17 +1,3 @@
-s clang
-yay clang
-yay c++
-s cpp
-yay cpp
-exit
-ls
-cat .config/i3/config 
-echo $f
-echo "$f"
-echo $NAME
-echo $PS1
-ls
-rm -v 2023-09-12_11-54-49_screenshot.png 
 htop
 killall redshift
 redshift
@@ -498,3 +484,17 @@ ls
 ls
 ls
 bp
+bp
+lf
+lf
+ls
+man mkdir 
+mkdir -p test/test1
+ls
+ls test/
+mkdirc x/y/z
+mkdir x/y/z
+ls
+rm -rv test/
+bp
+lf

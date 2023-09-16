@@ -18,12 +18,16 @@ cp -vr /usr/share/backgrounds/ $back_up_dir_path
 cp -vr ~/.config/lf $back_up_dir_path
 
 mkdir -p $back_up_dir_path/Code/User
-cp -v ~/.config/Code/User/snippets $back_up_dir_path/Code/User
+vs_code_files="/home/ahmed/.config/Code/User"
+cp -vr $svs_code_file/snippets $back_up_dir_path/Code/User
+cp -vr $svs_code_file/keybindings.json $back_up_dir_path/Code/User
+cp -vr $svs_code_file/settings.json $back_up_dir_path/Code/User
 
 clear
 
 current_date=$(date +%Y-%m-%d)
 USERNAME="AhmedMohamed05"
+
 cd ~/repos/config-files
 
 lsd -la 
