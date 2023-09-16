@@ -1,8 +1,3 @@
-redshift
-cp -v repos/config-files/redshift .config/
-cp -vr repos/config-files/redshift .config/
-redshift
-n .config/redshift/redshift.conf 
 n .config/redshift/start.sh 
 i build-essential
 yay build-essential
@@ -498,3 +493,8 @@ bp
 lf
 bp
 lf
+bp
+lf
+lf
+n shell/back_up.sh 
+bp
