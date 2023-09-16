@@ -15,7 +15,7 @@ mkdir $back_up_dir_path/bash
 cp -vr ~/.bash* $back_up_dir_path/bash
 cp -vr ~/.inputrc $back_up_dir_path/bash
 cp -vr /usr/share/backgrounds/ $back_up_dir_path
-cp -v ~/.config/lf $back_up_dir_path
+cp -vr ~/.config/lf $back_up_dir_path
 
 mkdir -p $back_up_dir_path
 cp -v ~/.config/Code/User/snippets $back_up_dir_path/Code/User
