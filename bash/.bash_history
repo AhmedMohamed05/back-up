@@ -1,56 +1,3 @@
-cd "/home/ahmed/Documents/cpp/" && g++ main.cpp -o main && "/home/ahmed/Documents/cpp/"main
-cd cpp
-pwd
-lss
-ls
-pwd
-cd "/home/ahmed/Documents/cpp/" && g++ main.cpp -o main && "/home/ahmed/Documents/cpp/"main
-ls
-g++ main.cpp -o main 
-./main 
-g++ main.cpp -o main && ./main
-g++ main.cpp -o main && ./main
-cd "/home/ahmed/Documents/cpp/" && g++ main.cpp -o main && "/home/ahmed/Documents/cpp/"main
-cd "/home/ahmed/Documents/cpp/" && g++ main.cpp -o main && "/home/ahmed/Documents/cpp/"main
-g++ main.cpp -o main && ./main 
-exit
-ping google.om
-ping google.com
-cd Documents/
-rm -rv cpp/
-ls
-pwd
-ls
-cd cpp/
-ls
-dust
-i dust
-dust
-exit
-cd "/home/ahmed/Documents/cpp/" && g++ main.cpp -o main && "/home/ahmed/Documents/cpp/"main
-g++ main.cpp -o main && main
-g++ main.cpp -o main && ./main
-ls
-cd
-cd pp
-ls
-cd level_4/
-ls
-rm -rv build/ main 
-ls
-g++ main.cpp -o main && ./main
-cd cp
-cd level_4/
-ls
-cd ..
-rm -rv level_4/
-cd ..
-md problem-solving-with-cpp
-code problem-solving-with-cpp/ && exit
-cd "/home/ahmed/Documents/cpp/level_4/" && g++ main.cpp -o main && "/home/ahmed/Documents/cpp/level_4/"main
-i cmake
-n shell/build.sh 
-exit
 i clang
 s clang
 yay clang
@@ -498,3 +445,56 @@ u
 n shell/update.sh 
 u
 yay -Syu
+bp
+redshift
+ls
+exit
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-breod1ip.m33 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-breod1ip.m33 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-yi3qdnhq.vxs 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-yi3qdnhq.vxs 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-yz43w1rh.q2p 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-bxfkwpf4.c4y 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-uf0sk40g.wmr 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-ns0ezvsd.0z4 
+./main 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-fl5gxamo.o5k 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-fl5gxamo.o5k 
+c
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-kq342mxu.vcz 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-kq342mxu.vcz 
+ll
+./main 
+./main 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-mv3ovmjz.jpg 
+./main 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-25zu0wxs.xf3 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-1ovvyrtj.4g1 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-w2tkkn1h.032 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-ok1rfalx.q51 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-j0mwthzr.idn 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-hvxozuh1.xxz 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-zrymer0a.z4t 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-rxu0z5my.fti 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-ewjz1syv.wou 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-in3xjmfk.2ix 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-kh3f3m50.dc1 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-i4qp1iam.pwc 
+lf
+cat .config/i3/config 
+bat .config/i3/config 
+i bat
+bat .config/i3/config 
+ls
+ls
+ls
+ll
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
