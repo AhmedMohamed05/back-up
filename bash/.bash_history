@@ -1,150 +1,3 @@
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-cd build/
-cmake ..
-make
-cmake ..
-make
-./r
-./main 
-./main 
-cd ..
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-i telegram-desktop
-i telegram-desktop
-htop
-scrot
-ls
-rm 2023-09-13-034229_1366x768_scrot.png 
-lf
-lf
-lf
-man lf
-'man' lf
-lf
-'man' lf
-'man' lf
-i telegram-desktop
-doas rm -rv /var/lib/pacman/db.lck 
-i telegram-desktop
-i telegram-desktop
-ls
-ls -a
-ll
-rm 2023-09-13_03-43-10_screenshot.png 
-lf
-cd .config/
-ls
-md lf
-cd lf/
-ls
-n lfrc
-lf
-lf -doc
-lf
-s skipview
-s ctpv-git
-yay ctpv-gt
-yay ctpv-git
-lf
-i stpv
-i ctpv
-yay ctpv
-lf
-s stpv
-yay stpv
-lf
-lf -config ~/.config/lf/lfrc 
-ls
-ls -a
-n .config/lf/lfrc 
-cp -v .config/lf/lfrc .lfrc
-lf
-n shell/back_up.sh 
-md repos/lf
-bp
-lf
-ls
-lf
-n .config/alacritty/alacritty.yml
-ls
-lf
-lf
-lf -doc
-n .lfrc 
-lf
-mv .lfrc lf
-lf
-lf
-rm lf 
-ls
-lf
-lf
-n .config/lf/lfrc 
-cd
-ls
-n .bashrc 
-curl https://raw.githubusercontent.com/gokcehan/lf/master/etc/icons.example -o ~/.config/lf/icons
-cd .config/lf/
-ls
-n icons 
-f
-lf
-lf
-lf
-lf
-lf
-lf
-lf
-lf
-lf
-lf
-lf
-lf
-lf
-lf
-lf
-lf
-lf
-p
-p
-p
-lf
-lf
-lf
-lf
-lf
-lf
-n .config/lf/lfrc 
-bp
 lf
 n .config/lf/icons 
 code Documents/problem-solving-with-cpp/ && exit
@@ -498,3 +351,150 @@ whereis
 whereis main.cpp
 whereis index.html
  /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-0u1450fs.vud 
+لاح
+bp
+s firewall
+yay firewall
+network
+NetworkManager 
+ifconfig
+i ifconfig
+ifconfig
+networkctl 
+ipadd
+adrress
+ipadd
+ipconfig
+ifconfig
+ipaddres
+ip 
+paswod
+sudo
+sudo su
+sudo su
+sudo -
+su -
+su -
+neofetch
+i neofetch
+rm -rv /var/lib/pacman/db.lck 
+doas rm -rv /var/lib/pacman/db.lck 
+i neofetch
+ls
+zsh
+i zsh
+doas adduser test
+sudo adduser test
+lsblk
+mount/sdb
+mount /sdb
+lf
+doas lf
+ls /
+lsblk
+doas blkid
+ls
+fdisk -l
+doas fdisk -l
+ls
+ls Documents/
+doas fdisk -l
+md -p /media/usb
+doas md -p /media/usb
+doas mkdir /media/usb
+doas mkdir -p /media/usb
+ls
+ls /
+cd /media/
+ls
+ls usb/
+lsblk
+mount /dev/sdb usb/
+ls
+ls usb/
+doas ls usb/
+ls
+doas mount /dev/sdb usb/
+ls
+ls usb/
+cd
+sudo mount /dev/sdb1 /media/usb
+ls
+lf
+umount /media/usb/
+doas umount /media/usb/
+lf
+doas monut /dev/sdb /media/usb/
+doas mount /dev/sdb /media/usb/
+doas mount /dev/sdb1 /media/usb/
+cd /media/usb/
+s
+ls
+doas umount /media/usb/
+doas umount /media/usb
+cd
+doas umount /media/usb
+ping google.com
+code Documents/cpp/codewars/ && exit
+build
+ls
+ll
+build
+cd "/home/ahmed/Documents/cpp/codewars/" && g++ app.cpp -o app && "/home/ahmed/Documents/cpp/codewars/"app
+exit
+cd "/home/ahmed/Documents/cpp/codewars/" && g++ app.cpp -o app && "/home/ahmed/Documents/cpp/codewars/"app
+ll
+ll
+build
+ls
+cd build/
+cmake ..
+make
+pwd
+exit
+lf
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-3lcqdben.vra 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-scpgiizt.2k1 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-k2dxomqi.pzi 
+cat shell/update.sh 
+n shell/brightness.sh
+mv -v shell/brightness.sh /usr/local/bin/
+doas mv -v shell/brightness.sh /usr/local/bin/
+ls
+cd shell/
+ls
+cd /usr/local/bin/
+ls
+cp brightness.sh  ~/shell/
+cd sh
+ls
+chmod +x brightness.sh 
+n brightness.sh 
+mv brightness.sh brightness.sh.bp
+n brightness.sh
+brillo -U 10
+i3status | echo "hi"
+man i3status
+ls
+cd shell/
+ls
+chmod +x brightness.sh
+n brightness.sh
+n brightness.sh
+n .config/i3/config 
+bat shell/brightness.sh.bp 
+bat shell/brightness.sh.bp 
+brillo 
+brillo 
+brillo 
+brillo 
+brillo 
+brillo 
+brillo 
+brillo 
+brillo 
+brillo 
+brillo 
+brillo 
+n .config/i3/config 
+n .config/nvim/

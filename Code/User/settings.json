@@ -89,5 +89,6 @@
   "javascript.suggest.autoImports": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.quickSuggestionsDelay": 5,
-  "zenMode.hideLineNumbers": false
+  "zenMode.hideLineNumbers": false,
+  "debug.onTaskErrors": "showErrors"
 }
