@@ -1,215 +1,3 @@
-lf
-n .config/lf/icons 
-code Documents/problem-solving-with-cpp/ && exit
-cmake --version
-n .config/i3/config 
-killall redshift
-cd "/home/ahmed/Documents/problem-solving-with-cpp/" && g++ main.cpp -o main && "/home/ahmed/Documents/problem-solving-with-cpp/"main
-ls
-build
-build
-build
-build
-build
-cd cp
-ls
-cd build/
-ls main 
-./main 
-ls main 
-ls
-/usr/bin/g++ -g -o CMakeFiles/main.dir/main.cpp.o -c /home/ahmed/Documents/problem-solving-with-cpp/main.cpp
-cd ..
-build
-build
-build
-build
-build
-build
-exit
-/home/ahmed/Documents/problem-solving-with-cpp/build/main
-cd ..
-build
-build
-build
-build
-build
-build
-build
-redshift
-n .config/redshift/redshift.conf 
-cd .config/redshift/
-n start.sh 
-rm -v start.sh 
-n redshift.conf 
-killall redshift 
-redshift
-killall redshift 
-redshift
-redshift
-redshift
-build
-build
-build
-lsblk
-lsblk
-lsblk
-lsblk
-lsblk
-lsblk
-lsblk
-lsblk
-lsblk
-lsblk
-lsblk
-lsblk
-s nautils
-s nautiles
-s nautilse
-s naut
-s nauti
-i nautilus
-lf
-killall nautilus
-reboot 
-lsblk
-reboot 
-lsblk
-lsblk
-cd ..
-ls
-cd ..
-ls
-cd ..
-ls
-ls
-cd
-lsblk
-sudo blkid
-sudo fdisk -l
-ls
-lf
-lsblk
-sudo fdisk -l
-sudo blkid
-killall redshfit
-killall redshift
-n .config/redshift/redshift.conf 
-redshift
-bp
-lf
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-2 4 6 8 10 
-2 4 6 8 10 
-build
-build
-build
-build
-build
-build
-build
-build
-build
-build
-gcc -v
-gcc --version
-s gcc
-s g++
-i gcc gdb g++
-i gcc gdb
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-enhqfnfa.wyb 
-build
-rm -rv output/
-ls
-killall brave-browser
-killall brave-beta
-cd cpp/
-ls
-gcc -h
-hcc --help
-gcc --help
-gcc app.cpp -o app 
-ls
-build
-ls
-rm -r build/
-md cpp
-cd cpp
-ls
-pw
-n app.cpp
-lf
-cat /usr/bin/g++ 
-cat Documents/cpp/arrays/CMakeLists.txt 
-cat Documents/cpp/arrays/CMakeLists.txt 
-s mingw-w64
-i mingw-w64-gcc
-s chess
-s pacman
-s sudoku
-i ksudoku
-i ksudoku
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-u50qrplo.phx 
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-ni2kbcwa.xns 
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-nluf25ml.nvy 
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-nz4iebvx.3dq 
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-duotddkf.qgt 
-cd cpp
-ls
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-loay2lkd.tst 
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-a1ylabbb.2dl 
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-sdrackfs.iu1 
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-vn35xnp2.jsj 
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-24520sj2.y1m 
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-xge2zkyh.d0v 
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-hhae3iue.d0l 
-redshift
-s 2048
-yay 2048
-timedatectl 
-ls /etc/localtime 
-timedatectl list-timezonnes
-timedatectl list-timezones
-doas timedatectl set-timezone Asia/Baghdad
-yay --help
-yay -c
-yay --clean
-yay --help
-man yay
-'man' yay
-yay -Syu
-yay -Syu
-yay -Syu
-yay visual-stdio-code-bin
-yay visual-st
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-d2o2wtth.1vu 
- /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-d2o2wtth.1vu 
-ls
-./main 
-./main 
-./main 
-./main 
-n .config/i3/config 
-n .config/i3/config 
-bp
-yay -Syu
-doas yay -Syu
-lf
-cd cpp
 ls
 n CMakeLists.txt
 ls
@@ -498,3 +286,215 @@ brillo
 brillo 
 n .config/i3/config 
 n .config/nvim/
+bp
+code Documents/cpp/problem-solving-with-cpp/ && exit
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-1dyji3zl.xlm 
+ls
+./main 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-5khhvsnw.jyx 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-tp3ewlgs.qg1 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-0jzwmwu4.fai 
+s gnome-calc
+i gnome-calculator
+s calculator
+i xorg-xcalc speedcrunch 
+s calculator
+Xorg 
+speedcrunch 
+calc
+i xorg-xcalc
+i rofi
+rofi
+rofi -mod run
+rofi -show run
+htop
+notify-send 
+notify-send hi
+man notify-send hi
+man notify-send
+notify-send "Test" --icon=google-chrome --app-name="Google Chrome"
+notify-send "Test" --icon=code --app-name="Google Chrome"
+notify-send "Test" --icon=brave-beta-bin --app-name="Google Chrome"
+notify-send "Test" --icon=telegram-desktop --app-name="Google Chrome"
+doas pacman -Rns dunst
+u
+yay clion 
+yay clion 
+init --user
+init --user
+init --version
+init 1
+init 7
+man init
+init --help
+doas pacman -Rns dunst
+clion 
+yay clion
+doas yay clion
+yay clion
+yay clion
+yay clion
+yay clion
+doas pacman -Rns dunst
+yay -R dunst
+telegram-desktop --version
+telegram-desktop -v
+man telegram-deskto
+telegram-desktop -help
+telegram-desktop --help
+s telegram-desktop
+i telegram-desktop
+lf
+lf
+speedcrunch 
+redshift
+i zathura
+cd Downloads/Telegram\ Desktop/
+ls
+zathura مرشحات_الكيمياء_الاحيائي_دور_ثاني_2023.pdf 
+s zathura 
+i zathura-pdf-mupdf
+zathura chemistry_suspend.pdf 
+cd te
+zathura chemistry_suspend.pdf 
+zathura chemistry_suspend.pdf -background
+man zathura
+zathura chemistry_suspend.pdf -background
+zathura chemistry_suspend.pdf 
+yay albert
+yay albert
+n .config/redshift/redshift.conf 
+redshift
+n .config/redshift/redshift.conf 
+redshift
+yay ablert
+yay albert
+yay -S albert
+yay -S albert
+mount /dev/sdb1 /media/usb/
+doas mount /dev/sdb1 /media/usb/
+lf
+umount /media/usb/
+doas umount /media/usb/
+s wine
+yay wine
+yay word
+yay office
+yay albert
+pwd
+lf
+albert 
+vi test.h
+i vi
+echo $EDITOR
+export VISUAL=nvim
+export EDITOR="$VISUAL"
+export VISUAL=nvim
+echo $EDITOR
+i vim
+s lf
+s lf | grep pdf
+s lf | grep p
+cd tel
+ls
+rm chemistry_suspend.pdf 
+zathura  sudent_manale.pdf 
+zathura  sudent_manale.pdf 
+zathura  sudent_manale.pdf 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-utd2s3uw.soj 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-y1g3nmzh.ugj 
+ll
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-e0qeypns.3oe 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-52vsuxb5.phu 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-fvzsuti2.2o4 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-k33yihss.35v 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-nviptwji.cks 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-5caykkp5.rfq 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-kqnovner.wcv 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-tmcq4v0u.ryl 
+ll
+./main 
+./main 
+LS
+ls
+ll
+qwertyikjhthello world from the keyboryd that i fix it 
+qwertyuiopasdfghjkl;'zxcvbnm,.\\\""\][po{{}}|
+ll
+exit
+quit
+cd Downloads/
+ls
+lf
+ls
+lf
+rm *.png
+ls
+mount /dev/sdb1 /media/usb/
+doas mount /dev/sdb1 /media/usb/
+lf
+doas cp -v Downloads/win-10.iso /media/usb/
+sudo su
+cd Downloads/
+ls
+doas cp -v Downloads/win-10.iso /media/usb/
+cd
+doas cp -v Downloads/win-10.iso /media/usb/
+doas nautilus
+ls
+lf
+cd /media/usb/
+ls
+rm win-10.iso 
+doas rm win-10.iso 
+ls
+cd ../..
+ls
+chown 
+chown --help
+chown ahmed media/
+doas chown ahmed media/
+ls
+doas chown ahmed:ahmed media/
+ls
+cd media/
+ls
+doas chown ahmed:ahmed usb/
+ls
+cp ~/Downloads/win-10.iso usb/
+man cp
+cd
+doas cp -v Downloads/win-10.iso /media/usb/
+umount /media/usb/
+doas umount /media/usb/
+cat .bashrc 
+cd /run/media/ahmed/Ventoy/
+s
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+lf
+cd /run/media/ahmed/Ventoy/
+ls
+ls -a
+rm -v .Trash-1000 .Trash-1001
+rm -vr .Trash-1000 .Trash-1001
+ls
+cp -v ~/Downloads/win-10.iso .
+ls

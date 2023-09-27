@@ -49,7 +49,7 @@
   },
   "jake.autoDetect": "on",
   "css.lint.unknownAtRules": "ignore",
-  "editor.minimap.enabled": true,
+  "editor.minimap.enabled": false,
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
