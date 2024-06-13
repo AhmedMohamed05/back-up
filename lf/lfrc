@@ -9,12 +9,14 @@ set ignorecase true
 set icons true
 
 cmd mkdir ${{
+  clear
   printf "Enter Directory Name: "
   read dir_name
   mkdir $dir_name
 }}
 
 cmd mkfile ${{
+  clear
   printf "Enter File Name: "
   read file_name
   touch $file_name
@@ -32,6 +34,8 @@ map x cut
 map DD delete
 
 map gd cd ~/Documents
-map H cd 
-
+map gh cd 
+map gc cd ~/Documents/cpp
+map gw cd ~/Documents/web
+map gg cd ~/.config
 map <enter> shell
