@@ -21,7 +21,6 @@ alias r='doas pacman -R'
 alias rd='doas pacman -Rns'
 alias s='doas pacman -Ss'
 
-# toggle keyboard layout
 
 #Custom Aliases
 alias ls='lsd -l'
@@ -51,8 +50,6 @@ alias ga='git add'
 alias gaa='git add .'
 alias gcm='git commit -m'
 alias gp='git push origin main'
-
-
 
 # Shell Script
 alias build='~/shell/./build.sh'
