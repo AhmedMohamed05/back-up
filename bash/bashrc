@@ -13,13 +13,13 @@ alias grep='grep --color=auto'
 
 
 #PS1='\W  '
-PS1='\W => '
+PS1='\[\e[38;5;49m\][\[\e[38;5;38m\]\u\[\e[0m\] \W\[\e[38;5;49m\]]\[\e[0m\]\$ '
 
 #Pacman
-alias i='doas pacman -S'
-alias r='doas pacman -R'
-alias rd='doas pacman -Rns'
-alias s='doas pacman -Ss'
+alias i='sudo pacman -S'
+alias r='sudo pacman -R'
+alias rd='sudo pacman -Rns'
+alias s='pacman -Ss'
 
 
 #Custom Aliases
@@ -58,3 +58,12 @@ alias changevolume='~/shell/./volume.sh'
 alias ncmake='~/shell/./init_cmake.sh'
 alias ncp='~/shell/./ncp.sh'
 alias tkl='~/shell/./toggle-keyboard-layout.sh'
+
+PATH=~/.console-ninja/.bin:$PATH
+
+# Flutter
+export ANDROID_HOME=$HOME/android-sdk
+export CHROME_EXECUTABLE="/usr/bin/brave"
+export PATH="$PATH:$HOME/Documents/dev/dflutter/flutter/bin"
+#export PATH=$PATH:$ANDROID_HOME/platform-tools
+export JAVA_HOME=/usr/lib/jvm/java-17-openjdk
