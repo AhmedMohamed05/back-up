@@ -1,5 +1,6 @@
 [ActivityManager][Global Shortcuts]
 switch-to-activity-b93057be-c6fe-4b84-b830-df68eea59d8c=
+switch-to-activity-e8418e7a-a9fa-4bdd-b9d2-12569071c409=
 
 [Alacritty.desktop][Global Shortcuts]
 New=
@@ -14,21 +15,21 @@ Switch to Next Keyboard Layout=Meta+Space
 [StandardShortcuts]
 AboutApp=
 AboutKDE=
-Activate Next Tab=Ctrl+]; Ctrl+PgDown
-Activate Previous Tab=Ctrl+PgUp; Ctrl+[
+Activate Next Tab=Ctrl+PgDown; Ctrl+]
+Activate Previous Tab=Ctrl+[; Ctrl+PgUp
 ActualSize=Ctrl+0
 AddBookmark=Ctrl+B
-Back=Back; Alt+Left
+Back=Alt+Left; Back
 BackwardWord=Ctrl+Left
 Begin=Ctrl+Home
 BeginningOfLine=Home
 Clear=
-Close=Ctrl+Esc; Ctrl+W
+Close=Ctrl+W; Ctrl+Esc
 ConfigureNotifications=
 ConfigureToolbars=
-Copy=Ctrl+Ins; Ctrl+C
+Copy=Ctrl+C; Ctrl+Ins
 CreateFolder=Ctrl+Shift+N
-Cut=Ctrl+X; Shift+Del
+Cut=Shift+Del; Ctrl+X
 DeleteFile=Shift+Del
 DeleteWordBack=Ctrl+Backspace
 DeleteWordForward=Ctrl+Del
@@ -60,7 +61,7 @@ New=Ctrl+N
 Next=PgDown
 NextCompletion=
 Open=Ctrl+O
-OpenContextMenu=Shift+F10; Menu
+OpenContextMenu=Menu; Shift+F10
 OpenMainMenu=F10
 OpenRecent=
 Paste=Shift+Ins; Ctrl+V
@@ -72,7 +73,7 @@ PrintPreview=
 Prior=PgUp
 Quit=Ctrl+Q
 Redo=Ctrl+Shift+Z
-Reload=Refresh; F5
+Reload=F5; Refresh
 RenameFile=F2
 Replace=Ctrl+R
 ReportBug=
@@ -119,14 +120,14 @@ decrease_microphone_volume=Microphone Volume Down
 decrease_volume=Volume Down; Ctrl+Down
 decrease_volume_small=Shift+Volume Down
 increase_microphone_volume=Microphone Volume Up
-increase_volume=Volume Up; Ctrl+Up
+increase_volume=Ctrl+Up; Volume Up
 increase_volume_small=Shift+Volume Up
 mic_mute=Meta+Volume Mute; Microphone Mute
 mute=Ctrl+M; Volume Mute
 
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Screensaver; Meta+L
+Lock Session=Meta+L; Screensaver
 Log Out=Ctrl+Alt+Del
 Log Out Without Confirmation=
 LogOut=
@@ -141,12 +142,13 @@ Cycle Overview Opposite=
 Decrease Opacity=
 Edit Tiles=Meta+T
 Expose=Ctrl+F9
-ExposeAll=Launch (C); Ctrl+F10
+ExposeAll=Ctrl+F10; Launch (C)
 ExposeClass=Ctrl+F7
 ExposeClassCurrentDesktop=
 Grid View=Meta+G
 Increase Opacity=
 Kill Window=Meta+Ctrl+Esc
+Move Tablet to Next Output=
 MoveMouseToCenter=Meta+F6
 MoveMouseToFocus=Meta+F5
 MoveZoomDown=
@@ -166,7 +168,7 @@ Switch Window Left=Meta+Alt+Left
 Switch Window Right=Meta+Alt+Right
 Switch Window Up=Meta+Alt+Up
 Switch to Desktop 1=Meta+1; Ctrl+F1
-Switch to Desktop 10=
+Switch to Desktop 10=Meta+0
 Switch to Desktop 11=
 Switch to Desktop 12=
 Switch to Desktop 13=
@@ -213,7 +215,7 @@ Walk Through Windows of Current Application Alternative=
 Walk Through Windows of Current Application Alternative (Reverse)=
 Window Above Other Windows=
 Window Below Other Windows=
-Window Close=Meta+Q; Alt+F4
+Window Close=Alt+F4; Meta+Q
 Window Fullscreen=
 Window Grow Horizontal=
 Window Grow Vertical=
@@ -285,7 +287,7 @@ Window to Screen 5=
 Window to Screen 6=
 Window to Screen 7=
 view_actual_size=
-view_zoom_in=Meta+=; Meta++
+view_zoom_in=Meta++; Meta+=
 view_zoom_out=Meta+-
 
 [mediacontrol][Global Shortcuts]
@@ -304,9 +306,14 @@ _launch=Meta+E
 [org.kde.kcalc.desktop][Global Shortcuts]
 _launch=Calculator
 
+[org.kde.konsole.desktop][Global Shortcuts]
+NewTab=
+NewWindow=
+_launch=Ctrl+Alt+T
+
 [org.kde.krunner.desktop][Global Shortcuts]
 RunClipboard=Alt+Shift+F2
-_launch=Alt+F2; Search; Alt+Space
+_launch=Alt+F2; Alt+Space; Search
 
 [org.kde.kscreen.desktop][Global Shortcuts]
 ShowOSD=Display; Meta+P
@@ -327,7 +334,7 @@ RecordScreen=Meta+Alt+R
 RecordWindow=Meta+Ctrl+R
 RectangularRegionScreenShot=Meta+Shift+Print
 WindowUnderCursorScreenShot=Meta+Ctrl+Print
-_launch=Meta+Shift+S; Print
+_launch=Print; Meta+Shift+S
 
 [org_kde_powerdevil][Global Shortcuts]
 Decrease Keyboard Brightness=Keyboard Brightness Down
@@ -345,7 +352,7 @@ Turn Off Screen=
 powerProfile=Battery
 
 [plasmashell][Global Shortcuts]
-activate application launcher=Meta; Alt+F1
+activate application launcher=Alt+F1; Meta
 activate task manager entry 1=
 activate task manager entry 10=
 activate task manager entry 2=
@@ -384,3 +391,6 @@ kcm-lookandfeel=
 kcm-powerdevilprofilesconfig=
 kcm-screenlocker=
 kcm-users=
+
+[yakuake][Global Shortcuts]
+toggle-window-state=F12
